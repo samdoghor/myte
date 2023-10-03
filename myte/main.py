@@ -1,33 +1,48 @@
+# entry_point.py
+
 """
-This module is entry point of the application.
-All configurations are done here
+This module is the entry point of the application.
+All configurations are done here.
 """
 
-# imports
-
-import sys
-
+import time
 
 import typer
 from rich import print as mprint
+from tools import CreateProject
 
-
-# app initialisation
+# app initialization
 
 myte = typer.Typer()
 
-
 # application
+
 
 @myte.command()
 def main():
     """ The defines myte main function """
 
     mprint("""
-[red] Compactible Note: [/red]
-[yellow] Myte requires Python 3.10+. However, some templates require a lower
-version to work, please upgrade if prompted.
+[yellow]Compatible Note:[/yellow]
+Myte requires at least Python 3.11. However, the tool may still work fine
+in lower versions not less than 3.8. If you encounter any error, do well to
+update your python version. [yellow]Thank you[/yellow]
              """)
+
+    time.sleep(2)
+
+    confirmation = typer.confirm("Do you want to continue?")
+
+    if not confirmation:
+        mprint("[red]The programme will now terminate[/red]")
+
+        time.sleep(2)
+        raise typer.Abort()
+
+    # Call the create_project function from the CreateProject class
+    CreateProject.create_project()
+
+    time.sleep(2)
 
 
 # app run

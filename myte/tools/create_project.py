@@ -4,9 +4,12 @@
 This module defines all functions and classes to create the boilerplate.
 """
 
+import time
 import inquirer
 from rich import print as mprint
 from rich.prompt import Prompt
+
+from .flask_framework import FlaskFramework
 
 
 class CreateProject:
@@ -19,7 +22,11 @@ class CreateProject:
         project_name = Prompt.ask(
             "Project Name", default="myte-project")
 
-        mprint(f"✅ Project name: {project_name}")
+        mprint(f"""
+[green]✅[/green] Project name: {project_name}
+        """)
+
+        time.sleep(2)
 
         frameworks_choice = ["Flask", "Bottle", "Web2py"]
 
@@ -35,7 +42,11 @@ class CreateProject:
 
         selected_framework = inquirer.prompt(frameworks)
 
-        mprint(f"✅ {selected_framework['framework']},  selected")
+        mprint(f"""
+[green]✅[/green] {selected_framework['framework']},  selected
+        """)
 
-        if selected_framework == "Flask":
-            FlaskFramework.create_project()
+        time.sleep(2)
+
+        if selected_framework['framework'] == "Flask":
+            FlaskFramework.flask_project()
