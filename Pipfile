@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 typer = {extras = ["all"], version = "*"}
 inquirer = "*"
+pycodestyle = "*"
+flake8 = "*"
 
 [dev-packages]
 
