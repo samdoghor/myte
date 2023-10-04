@@ -1,14 +1,28 @@
-# Python Web Frameworks Boilerplate
+# Myte
 
-PyFrameBoiler" is a versatile command-line tool designed to streamline your web development process in Python. With just a few simple commands, it generates robust boilerplate code for various Python web frameworks, allowing you to kickstart your projects efficiently. Say goodbye to repetitive setup tasks and hello to a faster, more productive web development experience with PyFrameBoiler.
+> Python web framework boilerplate made easy
 
-## Features
+- 🚀 Project Bootstrapping
+- 💡 Simplified project setup
+- 🛠️ Framework flexibility
 
-- **Framework Agnostic**: PyFrameBoiler supports various Python web frameworks, making it versatile for your development needs.
-- **Effortless Setup**: Say goodbye to tedious project setup tasks. PyFrameBoiler automates the process, letting you start coding right away.
-- **Customization**: Tailor the generated code to your project requirements. PyFrameBoiler offers configuration options to adapt to your specific needs.
+Myte is a simple command-line tool for creating boilerplate code for python web projects. It simplifies the project setup process by providing a user-friendly interface to choose the project name, framework, and setup complexity.
 
-## Supported Frameworks
+## Supported frameworks
 
-- Flask (`good to have`)
-- others (`good to have`)
+| Framework | Status |
+| --------------- | --------------- |
+| [Flask](https://flask.palletsprojects.com/) | 🛠️ Undergoing development |
+| [FastAPI](https://fastapi.tiangolo.com/) | ❌ Not started |
+| [Tornado](https://www.tornadoweb.org/en/stable/) | ❌ Not started |
+| [Bottle](https://bottlepy.org/) | ❌ Not started  |
+| [Pyramid](https://trypyramid.com/) | ❌ Not started  |
+| [CherryPy](https://docs.cherrypy.dev/en/latest/) | ❌ Not started  |
+
+## Contribution
+
+See [Contributing Guide](CONTRIBUTING.md).
+
+## License
+
+[MIT](LICENSE).
