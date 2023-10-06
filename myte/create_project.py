@@ -32,13 +32,17 @@ class CreateProject:
 [yellow]Usage:[/yellow]
 - cd into {project_name}
 
+- pip install virtualenv (if not installed)
+
 - create a virtual environment
-    [magenta]* windows: python -m virtualenv env
+    [magenta]* windows: virtualenv env
     * linux: python3 -m virtualenv env[/magenta]
 
 - activate virtual environment
     [magenta]* windows: source .env/scripts/activate
     * linux: source .env/bin/activate[/magenta]
+
+- run `pip install -r requirements`
 """)
 
             return create_dir
@@ -60,12 +64,12 @@ class CreateProject:
 
                 return delete_dir
 
-        # project name
+        # get project name
         project_name = Prompt.ask(
             "Project Name", default="myte-project")
         mprint(f"[green]✅[/green] Project name: {project_name}")
 
-        # framework choice
+        # get framework choice
         frameworks_choice = ["Flask", "Flask-Restful-API"]
         frameworks = [
             inquirer.List(
@@ -78,7 +82,7 @@ class CreateProject:
         selected_framework = inquirer.prompt(frameworks)
         mprint(f"[green]✅[/green] {selected_framework['framework']},  selected")  # noqa
 
-        # setup choice
+        # get setup choice
         setup_choice = ["Simple", "Moderate", "Robust"]
         setups = [
             inquirer.List(
