@@ -1,0 +1,17 @@
+alembic
+blinker
+click
+colorama
+Flask
+Flask-Migrate
+Flask-SQLAlchemy
+greenlet
+itsdangerous
+Jinja2
+Mako
+MarkupSafe
+psycopg2
+python-dotenv
+SQLAlchemy
+typing_extensions
+Werkzeug
