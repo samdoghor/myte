@@ -7,14 +7,13 @@ All configurations are done here.
 
 import typer
 from rich import print as mprint
+from setup_project import SetupProject
 
-from create_project import CreateProject
-
-# app initialization
+# cli initialization
 
 myte = typer.Typer()
 
-# application
+# cli start point
 
 
 @myte.command()
@@ -35,7 +34,7 @@ update your python version. [yellow]Thank you[/yellow]
 
         raise typer.Abort()
 
-    CreateProject.project_setup()
+    SetupProject.project_setup()
 
 
 # app run
