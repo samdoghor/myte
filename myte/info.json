@@ -1,39 +1,39 @@
 {
     "welcome": "Myte requires at least Python 3.11. However, the tool may still work fine in lower versions not less than 3.8. If you encounter any error, do well to update your python version.",
     "salutations":{
-        "thank_you": "Thank you"
+        "thank_you": "[yellow]Thank you[/yellow]"
     },
     "warnings": {
         "start_confirmation": "Do you want to continue?",
-        "not_empty_dir": "The directory you are trying to write into is not empty",
-        "dir_exist": "There is an existing directory with the same name",
+        "not_empty_dir": "[red]The directory you are trying to write into is not empty[/red]",
+        "dir_exist": "[red]There is an existing directory with the same name[/red]",
         "deletion_warning": "Do you want to override existing files",
         "deletion_confirmed": "This action cannot be reversed. continue?",
-        "program_termination":"The programme will now terminate"
+        "program_termination":"[red]The programme will now terminate[/red]"
     },
     "success": {
-        "project_success": "Project setup complete",
-        "override_success": "Directories and Files were successfully overridden"
+        "project_success": "[blue]Project setup complete[/blue]",
+        "override_success": "[blue]Directories and Files will now be overridden[/blue]"
     },
     "usage_message": {
-        "cd_message": "cd ",
+        "cd_message": "[cyan] cd [/cyan]",
 
-        "virtualenv_install_message_windows": "[magenta] pip install virtualenv (if not installed) [/magenta]",
-        "virtualenv_install_message_linux_mac": "[magenta] pip3 install virtualenv (if not installed) [/magenta]",
+        "virtualenv_install_message_windows": "[cyan] pip install virtualenv (if not installed) [/cyan]",
+        "virtualenv_install_message_linux_mac": "[cyan] pip3 install virtualenv (if not installed) [/cyan]",
 
-        "create_virtualenv_message_windows": "[magenta] virtualenv env [/magenta]",
-        "create_virtualenv_message_linux_mac": "[magenta] python3 -m virtualenv env [/magenta]",
+        "create_virtualenv_message_windows": "[cyan] virtualenv env [/cyan]",
+        "create_virtualenv_message_linux_mac": "[cyan] python3 -m virtualenv env [/cyan]",
 
-        "activate_virtualenv_message_windows": "[magenta] source env/scripts/activate [/magenta]",
-        "activate_virtualenv_message_linux_mac": "[magenta] source env/bin/activate [/magenta]",
+        "activate_virtualenv_message_windows": "[cyan] source env/scripts/activate [/cyan]",
+        "activate_virtualenv_message_linux_mac": "[cyan] source env/bin/activate [/cyan]",
 
-        "install_requirements_message": "[magenta] pip install -r requirements.txt [/magenta]"
+        "install_requirements_message": "[cyan] pip install -r requirements.txt [/cyan]"
 
     },
     "os":{
-        "windows": "[red] Your OS is Windows [/red]",
-        "linux": "[red] Your OS is Linux [/red]",
-        "macOS": "[red] Your OS is MacOS [/red]",
+        "windows": "[red] -> Your OS is Windows [/red]",
+        "linux": "[red] -> Your OS is Linux [/red]",
+        "macOS": "[red] -> Your OS is MacOS [/red]",
         "linux_mac": "[red] Linux/MacOS [/red]"
     }
 }

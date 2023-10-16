@@ -24,11 +24,12 @@ class CreateProject:
 
         shutil.copytree(source_folder, destination_folder)
 
-        mprint("[blue]" + messages["success"]["project_success"] + "[/blue]")
+        mprint(messages["success"]["project_success"])
+        mprint("\n")
         mprint("[yellow]Usage:[/yellow]")
         mprint("[green]Run the commands below:[/green]")
         mprint(
-            f"""[magenta] {messages["usage_message"]["cd_message"]}{project_name} [/magenta]""")  # noqa
+            f"""{messages["usage_message"]["cd_message"]}[cyan]{project_name}[/cyan]""")  # noqa
 
         if system_os in ("Linux", "Darwin"):
             if system_os == "Darwin":
@@ -54,6 +55,7 @@ class CreateProject:
                    ["activate_virtualenv_message_windows"])
 
         mprint(messages["usage_message"]["install_requirements_message"])
+        mprint("\n")
 
     @staticmethod
     def create_files(selected_framework, selected_setup):
@@ -75,7 +77,8 @@ class CreateProject:
 
         # shutil.copytree(source_folder, destination_folder)
 
-        mprint("[blue]" + messages["success"]["project_success"] + "[/blue]")
+        mprint(messages["success"]["project_success"])
+        mprint("\n")
         mprint("[yellow]Usage:[/yellow]")
         mprint("[green]Run the commands below:[/green]")
 
@@ -103,3 +106,4 @@ class CreateProject:
                    ["activate_virtualenv_message_windows"])
 
         mprint(messages["usage_message"]["install_requirements_message"])
+        mprint("\n")

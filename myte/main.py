@@ -8,6 +8,8 @@ All configurations are done here.
 import typer
 from constants import messages
 from rich import print as mprint
+from rich.console import Console
+from rich.text import Text
 from setup_project import SetupProject
 
 # cli initialization
@@ -22,15 +24,18 @@ myte = typer.Typer()
 def main():
     """ The defines myte main function """
 
+    console = Console()
+
     mprint("[yellow]Compatible Note:[/yellow]")
-    mprint(messages["welcome"])
-    mprint("[yellow]" + messages["salutations"]["thank_you"] + "[/yellow]")
+    mprint(Text(messages["welcome"], "green").wrap(console, 70))
+    mprint(messages["salutations"]["thank_you"])
+    mprint("\n")
 
     confirmation = typer.confirm(messages["warnings"]["start_confirmation"])
+    mprint("\n")
 
     if not confirmation:
-        mprint("[red]" + messages["warnings"]
-               ["program_termination"] + "[/red]" + "[blink][/blink]")
+        mprint(messages["warnings"]["program_termination"])
 
         raise typer.Abort()
 
