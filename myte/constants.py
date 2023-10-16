@@ -4,8 +4,8 @@
 This module defines constants use for this project
 """
 
-import os
 import json
+import os
 import platform
 
 # get template folder path

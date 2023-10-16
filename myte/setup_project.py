@@ -21,8 +21,14 @@ class SetupProject:
         # get project name
         project_name = Prompt.ask(
             "Project Name", default="myte-project")
+        mprint("\n")
 
-        mprint(f"[green]✅[/green] Project name: {project_name}")
+        if project_name == ".":
+            DeleteProject.delete_files()
+        else:
+            DeleteProject.delete_dir(project_name)
+            mprint(f"[green] ✅ Project name: {project_name} [/green]")
+            mprint("\n")
 
         # get framework choice
         frameworks_choice = ["Flask", "Flask-Restful-API"]
@@ -36,7 +42,8 @@ class SetupProject:
         ]
         selected_framework = inquirer.prompt(frameworks)
 
-        mprint(f"[green]✅[/green] {selected_framework['framework']},  selected")  # noqa
+        mprint(f"[green] ✅ {selected_framework['framework']},  selected [/green]")  # noqa
+        mprint("\n")
 
         # get setup choice
         setup_choice = ["Simple", "Moderate", "Robust"]
@@ -50,14 +57,13 @@ class SetupProject:
         ]
         selected_setup = inquirer.prompt(setups)
 
-        mprint(f"[green]✅[/green] {selected_setup['setup']},  selected")  # noqa
+        mprint(f"[green] ✅ {selected_setup['setup']},  selected [/green] ")  # noqa
+        mprint("\n")
 
         # boilerplate execution
         if project_name and selected_framework['framework'] and selected_setup['setup']:  # noqa
 
             if project_name == ".":
-                DeleteProject.delete_files()
                 CreateProject.create_files(selected_framework, selected_setup)  # noqa
             else:
-                DeleteProject.delete_dir(project_name)
                 CreateProject.create_dir(project_name, selected_framework, selected_setup)  # noqa

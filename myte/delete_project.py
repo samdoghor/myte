@@ -8,8 +8,8 @@ import os
 import shutil
 
 import typer
-from rich import print as mprint
 from constants import current_dir, messages
+from rich import print as mprint
 
 
 class DeleteProject:
@@ -20,24 +20,28 @@ class DeleteProject:
         """ This function defines the deletion/override of a directory  """
 
         if os.path.exists(project_name):
+            mprint("\n")
             mprint(messages["warnings"]["dir_exist"])
+            mprint("\n")
 
-            confirmation = typer.confirm(messages["warnings"]["deletion_warning"] + "[blink][/blink]")  # noqa
+            confirmation = typer.confirm(messages["warnings"]["deletion_warning"])  # noqa
+            mprint("\n")
 
             if not confirmation:
-                mprint(messages["warnings"]["program_termination"] + "[blink][/blink]")  # noqa
+                mprint(messages["warnings"]["program_termination"])  # noqa
                 raise typer.Abort()
 
             confirmation_yes = typer.confirm(messages["warnings"]["deletion_confirmed"])  # noqa
 
             if not confirmation_yes:
-                mprint(messages["warnings"]["program_termination"] + "[blink][/blink]")  # noqa
+                mprint(messages["warnings"]["program_termination"])  # noqa
                 raise typer.Abort()
 
+            mprint("\n")
             shutil.rmtree(os.path.abspath(f"{project_name}"))
 
-            mprint("[blue]" + messages["success"]
-                   ["override_success"] + "[/blue]")
+            mprint(messages["success"]["override_success"])
+            mprint("\n")
 
     @staticmethod
     def delete_files():
@@ -46,18 +50,22 @@ class DeleteProject:
         current_files = os.listdir(current_dir)
 
         if current_files:
+            mprint("\n")
             mprint(messages["warnings"]["not_empty_dir"])
+            mprint("\n")
 
-            confirmation = typer.confirm(messages["warnings"]["deletion_warning"] + "[blink][/blink]")  # noqa
+            confirmation = typer.confirm(messages["warnings"]["deletion_warning"])  # noqa
+            mprint("\n")
 
             if not confirmation:
-                mprint(messages["warnings"]["program_termination"] + "[blink][/blink]")  # noqa
+                mprint(messages["warnings"]["program_termination"])  # noqa
                 raise typer.Abort()
 
             confirmation_yes = typer.confirm(messages["warnings"]["deletion_confirmed"])  # noqa
+            mprint("\n")
 
             if not confirmation_yes:
-                mprint(messages["warnings"]["program_termination"] + "[blink][/blink]")  # noqa
+                mprint(messages["warnings"]["program_termination"])  # noqa
                 raise typer.Abort()
 
             for file in os.listdir(current_dir):
@@ -68,5 +76,5 @@ class DeleteProject:
                 elif os.path.isdir(source_path):
                     shutil.rmtree(source_path)
 
-            mprint("[blue]" + messages["success"]
-                   ["override_success"] + "[/blue]")
+            mprint(messages["success"]["override_success"])
+            mprint("\n")
