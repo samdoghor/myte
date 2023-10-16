@@ -8,8 +8,8 @@ import os
 import shutil
 
 import typer
-from rich import print as mprint
 from constants import current_dir, messages
+from rich import print as mprint
 
 
 class DeleteProject:

@@ -7,7 +7,7 @@ This module defines the functions that create the boilerplate.
 import os
 import shutil
 
-from constants import current_dir, template_folder, messages, system_os
+from constants import current_dir, messages, system_os, template_folder
 from rich import print as mprint
 
 

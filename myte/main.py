@@ -6,9 +6,9 @@ All configurations are done here.
 """
 
 import typer
+from constants import messages
 from rich import print as mprint
 from setup_project import SetupProject
-from constants import messages
 
 # cli initialization
 
