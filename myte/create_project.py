@@ -19,7 +19,7 @@ class CreateProject:
         """ This function defines the creation of directory """
 
         source_folder = os.path.join(template_folder,
-                                        f"template-{selected_framework['framework']}-{selected_setup['setup']}")  # noqa
+                                        f"template-{selected_framework['framework'].lower()}-{selected_setup['setup'].lower()}")  # noqa
         destination_folder = os.path.join(current_dir, project_name)
 
         shutil.copytree(source_folder, destination_folder)
@@ -32,15 +32,17 @@ class CreateProject:
 
         if system_os in ("Linux", "Darwin"):
             if system_os == "Darwin":
-                mprint(messages["os"]["linux"])
+                mprint(messages["os"]["macOS"])
 
             if system_os == "Linux":
-                mprint(messages["os"]["macOS"])
+                mprint(messages["os"]["linux"])
 
             mprint(messages["usage_message"]
                    ["virtualenv_install_message_linux_mac"])
             mprint(messages["usage_message"]
                    ["create_virtualenv_message_linux_mac"])
+            mprint(messages["usage_message"]
+                   ["activate_virtualenv_message_linux_mac"])
 
         if system_os == "Windows":
             mprint(messages["os"]["windows"])
@@ -48,6 +50,8 @@ class CreateProject:
                    ["virtualenv_install_message_windows"])
             mprint(messages["usage_message"]
                    ["create_virtualenv_message_windows"])
+            mprint(messages["usage_message"]
+                   ["activate_virtualenv_message_windows"])
 
         mprint(messages["usage_message"]["install_requirements_message"])
 
@@ -56,7 +60,7 @@ class CreateProject:
         """ This function defines the creation of directory """
 
         source_folder = os.path.join(template_folder,
-                                        f"template-{selected_framework['framework']}-{selected_setup['setup']}")  # noqa
+                                        f"template-{selected_framework['framework'].lower()}-{selected_setup['setup'].lower()}")  # noqa
 
         destination_folder = current_dir
 
@@ -77,15 +81,17 @@ class CreateProject:
 
         if system_os in ("Linux", "Darwin"):
             if system_os == "Darwin":
-                mprint(messages["os"]["linux"])
+                mprint(messages["os"]["macOS"])
 
             if system_os == "Linux":
-                mprint(messages["os"]["macOS"])
+                mprint(messages["os"]["linux"])
 
             mprint(messages["usage_message"]
                    ["virtualenv_install_message_linux_mac"])
             mprint(messages["usage_message"]
                    ["create_virtualenv_message_linux_mac"])
+            mprint(messages["usage_message"]
+                   ["activate_virtualenv_message_linux_mac"])
 
         if system_os == "Windows":
             mprint(messages["os"]["windows"])
@@ -93,5 +99,7 @@ class CreateProject:
                    ["virtualenv_install_message_windows"])
             mprint(messages["usage_message"]
                    ["create_virtualenv_message_windows"])
+            mprint(messages["usage_message"]
+                   ["activate_virtualenv_message_windows"])
 
         mprint(messages["usage_message"]["install_requirements_message"])

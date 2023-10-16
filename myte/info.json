@@ -22,10 +22,10 @@
         "virtualenv_install_message_linux_mac": "[magenta] pip3 install virtualenv (if not installed) [/magenta]",
 
         "create_virtualenv_message_windows": "[magenta] virtualenv env [/magenta]",
-        "create_virtualenv_message_linux_mac": "[magenta] python3 -m virtualenv myenv [/magenta]",
+        "create_virtualenv_message_linux_mac": "[magenta] python3 -m virtualenv env [/magenta]",
 
-        "activate_virtualenv_message_windows": "[magenta] source .env/scripts/activate [/magenta]",
-        "activate_virtualenv_message_linux_mac": "[magenta] source .env/bin/activate [/magenta]",
+        "activate_virtualenv_message_windows": "[magenta] source env/scripts/activate [/magenta]",
+        "activate_virtualenv_message_linux_mac": "[magenta] source env/bin/activate [/magenta]",
 
         "install_requirements_message": "[magenta] pip install -r requirements.txt [/magenta]"
 
