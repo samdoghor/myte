@@ -1,7 +1,7 @@
 # setup_project.py
 
 """
-This module defines a function to create the boilerplate.
+This module defines functions to create the boilerplate.
 """
 
 import inquirer
@@ -21,6 +21,7 @@ class SetupProject:
         # get project name
         project_name = Prompt.ask(
             "Project Name", default="myte-project")
+
         mprint(f"[green]✅[/green] Project name: {project_name}")
 
         # get framework choice
@@ -34,6 +35,7 @@ class SetupProject:
             )
         ]
         selected_framework = inquirer.prompt(frameworks)
+
         mprint(f"[green]✅[/green] {selected_framework['framework']},  selected")  # noqa
 
         # get setup choice
@@ -47,20 +49,15 @@ class SetupProject:
             )
         ]
         selected_setup = inquirer.prompt(setups)
+
         mprint(f"[green]✅[/green] {selected_setup['setup']},  selected")  # noqa
 
         # boilerplate execution
         if project_name and selected_framework['framework'] and selected_setup['setup']:  # noqa
 
-            if selected_framework['framework'] == "Flask":  # noqa
-                if selected_setup['setup'] == "Simple":
-                    DeleteProject.delete_dir(project_name)
-                    CreateProject.create_dir(project_name, selected_setup)
-
-                if selected_setup['setup'] == "Moderate":  # noqa
-                    DeleteProject.delete_dir(project_name)
-                    CreateProject.create_dir(project_name, selected_setup)
-
-                if selected_setup['setup'] == "Robust":  # noqa
-                    DeleteProject.delete_dir(project_name)
-                    CreateProject.create_dir(project_name, selected_setup)
+            if project_name == ".":
+                DeleteProject.delete_files()
+                CreateProject.create_files(selected_framework, selected_setup)  # noqa
+            else:
+                DeleteProject.delete_dir(project_name)
+                CreateProject.create_dir(project_name, selected_framework, selected_setup)  # noqa

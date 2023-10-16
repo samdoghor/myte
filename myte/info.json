@@ -1,0 +1,39 @@
+{
+    "welcome": "Myte requires at least Python 3.11. However, the tool may still work fine in lower versions not less than 3.8. If you encounter any error, do well to update your python version.",
+    "salutations":{
+        "thank_you": "Thank you"
+    },
+    "warnings": {
+        "start_confirmation": "Do you want to continue?",
+        "not_empty_dir": "The directory you are trying to write into is not empty",
+        "dir_exist": "There is an existing directory with the same name",
+        "deletion_warning": "Do you want to override existing files",
+        "deletion_confirmed": "This action cannot be reversed. continue?",
+        "program_termination":"The programme will now terminate"
+    },
+    "success": {
+        "project_success": "Project setup complete",
+        "override_success": "Directories and Files were successfully overridden"
+    },
+    "usage_message": {
+        "cd_message": "cd ",
+
+        "virtualenv_install_message_windows": "[magenta] pip install virtualenv (if not installed) [/magenta]",
+        "virtualenv_install_message_linux_mac": "[magenta] pip3 install virtualenv (if not installed) [/magenta]",
+
+        "create_virtualenv_message_windows": "[magenta] virtualenv env [/magenta]",
+        "create_virtualenv_message_linux_mac": "[magenta] python3 -m virtualenv myenv [/magenta]",
+
+        "activate_virtualenv_message_windows": "[magenta] source .env/scripts/activate [/magenta]",
+        "activate_virtualenv_message_linux_mac": "[magenta] source .env/bin/activate [/magenta]",
+
+        "install_requirements_message": "[magenta] pip install -r requirements.txt [/magenta]"
+
+    },
+    "os":{
+        "windows": "[red] Your OS is Windows [/red]",
+        "linux": "[red] Your OS is Linux [/red]",
+        "macOS": "[red] Your OS is MacOS [/red]",
+        "linux_mac": "[red] Linux/MacOS [/red]"
+    }
+}
