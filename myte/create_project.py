@@ -7,7 +7,7 @@ This module defines the functions that create the boilerplate.
 import os
 import shutil
 
-from constants import current_dir, template_folder
+from constants import current_dir, template_folder, messages, system_os
 from rich import print as mprint
 
 
@@ -15,30 +15,83 @@ class CreateProject:
     """ This class defines the boilerplate creation """
 
     @staticmethod
-    def create_dir(project_name, selected_setup):
+    def create_dir(project_name, selected_framework, selected_setup):
         """ This function defines the creation of directory """
 
         source_folder = os.path.join(template_folder,
-                                        f"template-flask-{selected_setup['setup']}")  # noqa
+                                        f"template-{selected_framework['framework']}-{selected_setup['setup']}")  # noqa
         destination_folder = os.path.join(current_dir, project_name)
+
         shutil.copytree(source_folder, destination_folder)
 
-        mprint("[blue]Successful[/blue]")
+        mprint("[blue]" + messages["success"]["project_success"] + "[/blue]")
+        mprint("[yellow]Usage:[/yellow]")
+        mprint("[green]Run the commands below:[/green]")
+        mprint(
+            f"""[magenta] {messages["usage_message"]["cd_message"]}{project_name} [/magenta]""")  # noqa
 
-        mprint(f"""
-[yellow]Usage:[/yellow]
-- cd into {project_name}
+        if system_os in ("Linux", "Darwin"):
+            if system_os == "Darwin":
+                mprint(messages["os"]["linux"])
 
-- pip install virtualenv (if not installed)
+            if system_os == "Linux":
+                mprint(messages["os"]["macOS"])
 
-- create a virtual environment
-[magenta]* windows: virtualenv env
-* linux: python3 -m virtualenv env[/magenta]
+            mprint(messages["usage_message"]
+                   ["virtualenv_install_message_linux_mac"])
+            mprint(messages["usage_message"]
+                   ["create_virtualenv_message_linux_mac"])
 
-- activate virtual environment
-[magenta]* windows: source .env/scripts/activate
-* linux: source .env/bin/activate[/magenta]
+        if system_os == "Windows":
+            mprint(messages["os"]["windows"])
+            mprint(messages["usage_message"]
+                   ["virtualenv_install_message_windows"])
+            mprint(messages["usage_message"]
+                   ["create_virtualenv_message_windows"])
 
-- run `pip install -r requirements`
-"""
-               )
+        mprint(messages["usage_message"]["install_requirements_message"])
+
+    @staticmethod
+    def create_files(selected_framework, selected_setup):
+        """ This function defines the creation of directory """
+
+        source_folder = os.path.join(template_folder,
+                                        f"template-{selected_framework['framework']}-{selected_setup['setup']}")  # noqa
+
+        destination_folder = current_dir
+
+        for file in os.listdir(source_folder):
+            source_path = os.path.join(source_folder, file)
+            destination_path = os.path.join(destination_folder, file)
+
+            if os.path.isfile(source_path):
+                shutil.copy(source_path, destination_path)
+            elif os.path.isdir(source_path):
+                shutil.copytree(source_path, destination_path)
+
+        # shutil.copytree(source_folder, destination_folder)
+
+        mprint("[blue]" + messages["success"]["project_success"] + "[/blue]")
+        mprint("[yellow]Usage:[/yellow]")
+        mprint("[green]Run the commands below:[/green]")
+
+        if system_os in ("Linux", "Darwin"):
+            if system_os == "Darwin":
+                mprint(messages["os"]["linux"])
+
+            if system_os == "Linux":
+                mprint(messages["os"]["macOS"])
+
+            mprint(messages["usage_message"]
+                   ["virtualenv_install_message_linux_mac"])
+            mprint(messages["usage_message"]
+                   ["create_virtualenv_message_linux_mac"])
+
+        if system_os == "Windows":
+            mprint(messages["os"]["windows"])
+            mprint(messages["usage_message"]
+                   ["virtualenv_install_message_windows"])
+            mprint(messages["usage_message"]
+                   ["create_virtualenv_message_windows"])
+
+        mprint(messages["usage_message"]["install_requirements_message"])

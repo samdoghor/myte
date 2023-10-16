@@ -8,10 +8,12 @@ All configurations are done here.
 import typer
 from rich import print as mprint
 from setup_project import SetupProject
+from constants import messages
 
 # cli initialization
 
 myte = typer.Typer()
+
 
 # cli start point
 
@@ -20,17 +22,15 @@ myte = typer.Typer()
 def main():
     """ The defines myte main function """
 
-    mprint("""
-[yellow]Compatible Note:[/yellow]
-Myte requires at least Python 3.11. However, the tool may still work fine
-in lower versions not less than 3.8. If you encounter any error, do well to
-update your python version. [yellow]Thank you[/yellow]
-             """)
+    mprint("[yellow]Compatible Note:[/yellow]")
+    mprint(messages["welcome"])
+    mprint("[yellow]" + messages["salutations"]["thank_you"] + "[/yellow]")
 
-    confirmation = typer.confirm("Do you want to continue?")
+    confirmation = typer.confirm(messages["warnings"]["start_confirmation"])
 
     if not confirmation:
-        mprint("[red]The programme will now terminate[/red] [blink][/blink]")
+        mprint("[red]" + messages["warnings"]
+               ["program_termination"] + "[/red]" + "[blink][/blink]")
 
         raise typer.Abort()
 
