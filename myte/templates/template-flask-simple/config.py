@@ -22,7 +22,22 @@ DATABASE_NAME = os.getenv('DATABASE_NAME')
 
 DEBUG = True
 
+# databases
+# delete any database you don't want to use
+
+# postgreSQL - default (pip install psycopg2 or psycopg2-binary)
+
 SQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa
+
+# # mySQL (pip install psycopg2 or psycopg2-binary)
+# uncomment to use
+
+# SQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa
+
+# # SQLite (pip install psycopg2 or psycopg2-binary)
+# uncomment to use
+
+# SQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa
 
 SQLALCHEMY_TRACK_MODIFICATIONS = False
 

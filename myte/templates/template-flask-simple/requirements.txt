@@ -10,7 +10,7 @@ itsdangerous
 Jinja2
 Mako
 MarkupSafe
-psycopg2
+psycopg2-binary
 python-dotenv
 SQLAlchemy
 typing_extensions

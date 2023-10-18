@@ -9,6 +9,8 @@ import shutil
 
 from constants import current_dir, messages, system_os, template_folder
 from rich import print as mprint
+from rich.console import Console
+from rich.text import Text
 
 
 class CreateProject:
@@ -17,6 +19,8 @@ class CreateProject:
     @staticmethod
     def create_dir(project_name, selected_framework, selected_setup):
         """ This function defines the creation of directory """
+
+        console = Console()
 
         source_folder = os.path.join(template_folder,
                                         f"template-{selected_framework['framework'].lower()}-{selected_setup['setup'].lower()}")  # noqa
@@ -55,11 +59,16 @@ class CreateProject:
                    ["activate_virtualenv_message_windows"])
 
         mprint(messages["usage_message"]["install_requirements_message"])
+        mprint(messages["usage_message"]["environment_variable"])
+        mprint(Text(messages["usage_message"]
+               ["database_configuration"], "cyan").wrap(console, 70))
         mprint("\n")
 
     @staticmethod
     def create_files(selected_framework, selected_setup):
         """ This function defines the creation of directory """
+
+        console = Console()
 
         source_folder = os.path.join(template_folder,
                                         f"template-{selected_framework['framework'].lower()}-{selected_setup['setup'].lower()}")  # noqa
@@ -106,4 +115,7 @@ class CreateProject:
                    ["activate_virtualenv_message_windows"])
 
         mprint(messages["usage_message"]["install_requirements_message"])
+        mprint(messages["usage_message"]["environment_variable"])
+        mprint(Text(messages["usage_message"]
+               ["database_configuration"], "cyan").wrap(console, 70))
         mprint("\n")

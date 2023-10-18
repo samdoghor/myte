@@ -16,18 +16,22 @@
         "override_success": "[blue]Directories and Files will now be overridden[/blue]"
     },
     "usage_message": {
-        "cd_message": "[cyan] cd [/cyan]",
+        "cd_message": "[cyan] - cd [/cyan]",
 
-        "virtualenv_install_message_windows": "[cyan] pip install virtualenv (if not installed) [/cyan]",
-        "virtualenv_install_message_linux_mac": "[cyan] pip3 install virtualenv (if not installed) [/cyan]",
+        "virtualenv_install_message_windows": "[cyan] - pip install virtualenv (if not installed) [/cyan]",
+        "virtualenv_install_message_linux_mac": "[cyan] - pip3 install virtualenv (if not installed) [/cyan]",
 
-        "create_virtualenv_message_windows": "[cyan] virtualenv env [/cyan]",
-        "create_virtualenv_message_linux_mac": "[cyan] python3 -m virtualenv env [/cyan]",
+        "create_virtualenv_message_windows": "[cyan] - virtualenv env [/cyan]",
+        "create_virtualenv_message_linux_mac": "[cyan] - python3 -m virtualenv env [/cyan]",
 
-        "activate_virtualenv_message_windows": "[cyan] source env/scripts/activate [/cyan]",
-        "activate_virtualenv_message_linux_mac": "[cyan] source env/bin/activate [/cyan]",
+        "activate_virtualenv_message_windows": "[cyan] - source env/scripts/activate [/cyan]",
+        "activate_virtualenv_message_linux_mac": "[cyan] - source env/bin/activate [/cyan]",
 
-        "install_requirements_message": "[cyan] pip install -r requirements.txt [/cyan]"
+        "install_requirements_message": "[cyan] - pip install -r requirements.txt [/cyan]",
+
+        "environment_variable": "[cyan] - Rename example.env to .env [/cyan]",
+
+        "database_configuration": " - Go to config.py, decide the database you want to use, uncomment it and run the pip instructions there"
 
     },
     "os":{
