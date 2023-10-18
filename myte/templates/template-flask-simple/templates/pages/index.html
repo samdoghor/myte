@@ -1,19 +1,38 @@
 {% extends "layouts/main.html" %}
+
 {% block title %} Myte - Simple Flask {% endblock %}
+
 {% block content %}
 
-<section class="container">
-  <div class="container-fluid pt-5">
-    <div class="h-100 mx-auto my-auto">
-      <div class="text-center">
-        <h1 class="fw-bolder p-3"> Hello World! </h1>
-        <h3 class="fw-medium p-3"> App is running </h2>
-      </div>
-      <div class="d-flex justify-content-center">
-        <lord-icon src="https://cdn.lordicon.com/upnfmbfj.json" trigger="loop" delay="1000"
-          colors="primary:#110a5c,secondary:#dc3545" style="width:200px;height:200px">
-        </lord-icon>
-      </div>
+<section>
+  <div class="container">
+    <div class="content">
+      <a href="https://github.com/samdoghor/myte" target="_blank">
+        <img class="logo" src="static/img/myte.png" alt="myte-logo" />
+      </a>
+      <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img class="flask" src="static/img/flask-logo-svg-vector.svg" alt="flask-logo" />
+      </a>
+    </div>
+    <div class="content">
+      <p class="title"> Myte + Flask </p>
+    </div>
+    <div class="texts">
+      <p> Your application is running smoothly </p>
+      <p> Please do take a look at your files and make changes as your desire. There are files your should take a
+        critical look at for proper configuration to suit what you want. </p>
+      <ul>
+        <li> app.py - This is your app entry point, and also where you define your routes & logic. </li>
+        <li> config.py - All configuration relating app, security and database are done here. </li>
+        <li> .env - Environment variable. </li>
+        <li> models.py - Defines your database tables. </li>
+      </ul>
+    </div>
+    <div class="content">
+      <p class="end"> Thank you for using Myte </p>
+    </div>
+    <div class="texts">
+      <p> Click on the myte and flask logos to learn more </p>
     </div>
   </div>
 </section>

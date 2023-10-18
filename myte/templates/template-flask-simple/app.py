@@ -32,17 +32,12 @@ migrate = Migrate(app, db)
 def index():
     """ This function defines... """
 
+    # write your logic here
+
     return render_template('pages/index.html'), 200
 
+# entrypoint
 
-@app.route('/about', methods=['GET'])
-def about():
-    """ This function defines... """
-
-    return render_template('pages/about.html'), 200
-
-
-# server
 
 if __name__ == "__main__":
     app.debug = config.DEBUG
