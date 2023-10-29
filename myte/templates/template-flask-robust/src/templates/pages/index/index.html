@@ -1,0 +1,47 @@
+{% extends "layouts/main.html" %}
+
+{% block title %} Myte - Simple Flask {% endblock %}
+
+{% block content %}
+
+<section>
+   <div class="container">
+      <div class="content">
+         <a href="https://github.com/samdoghor/myte" target="_blank">
+            <img class="logo" src="static/img/myte.png" alt="myte-logo" />
+         </a>
+         <a href="https://flask.palletsprojects.com/" target="_blank">
+            <img class="flask" src="static/img/flask-logo-svg-vector.svg" alt="flask-logo" />
+         </a>
+      </div>
+      <div class="content">
+         <p class="title"> Myte + Flask </p>
+      </div>
+      <div class="texts">
+         <p> Your application is running smoothly </p>
+         <p> Please do take a look at your files/directories and make changes as your desire. There are files your
+            should take a
+            critical look at for proper configuration to suit what you want. </p>
+         <ul>
+            <li> server.py - This is your app entry point, and also where you define your routes & logic. </li>
+            <li> config.py - All configuration relating app, security and database are done here. </li>
+            <li> .env - Environment variable. </li>
+            <li> forms/ - Defines forms if needed for your project. </li>
+            <li> middlewares/ - Defines things like auth, logging, caching and other functions to be mounted in your
+               app. </li>
+            <li> resources/ - Defines your logics/functions. </li>
+            <li> routes/ - Defines the routes to your logic/functions. </li>
+            <li> models/ - Defines your database tables. </li>
+            <li> utils/ - Defines other necessary utilities. e.g. Errors. </li>
+         </ul>
+      </div>
+      <div class="content">
+         <p class="end"> Thank you for using Myte </p>
+      </div>
+      <div class="texts">
+         <p> Click on the myte and flask logos to learn more </p>
+      </div>
+   </div>
+</section>
+
+{% endblock %}

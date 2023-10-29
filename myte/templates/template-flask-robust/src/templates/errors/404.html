@@ -1,0 +1,28 @@
+{% extends "layouts/main.html" %}
+{% block title %} Page Not Found {% endblock %}
+{% block content %}
+
+<div class="container ms-5 me-5 topad-2-2">
+    <div class="vh-100 ps-5 pe-5 text-center">
+        <p class="font-2 f3 pt-3 pb-3">
+            <lord-icon src="https://cdn.lordicon.com/pragornn.json" trigger="loop" delay="2000"
+                style="width:150px;height:150px">
+            </lord-icon>
+        </p>
+        <p class="font-1 f8 pt-3 pb-3">
+            404 ERROR
+        </p>
+        <p class="font-1 f2 pt-3 pb-3 lh-1-2">
+            The page you trying to view is not available. <span class="fw-bold"> Please check the url you enter and try
+                again or click on the button below to go back home</span>
+        </p>
+        <p class="font-1 f1 pt-3 pb-3">
+        <div data-aos="fade-down">
+            <span class="pe-4"> <a class="btn btn-th btn-lg ls-1" href="{{url_for('index')}}" role="button">Go back Home
+                </a> </span>
+        </div>
+        </p>
+    </div>
+</div>
+
+{% endblock %}

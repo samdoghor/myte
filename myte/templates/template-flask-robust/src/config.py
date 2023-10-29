@@ -1,7 +1,5 @@
-# config.py
-
 """
-This module defines...
+This module define all important variables, connection to DB
 """
 
 # imports
@@ -14,10 +12,10 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-DATABASE_USERNAME = os.getenv('DATABASE_USERNAME')
-DATABASE_PASSWORD = os.getenv('DATABASE_PASSWORD')
 DATABASE_HOST = os.getenv('DATABASE_HOST')
 DATABASE_PORT = os.getenv('DATABASE_PORT')
+DATABASE_USERNAME = os.getenv('DATABASE_USERNAME')
+DATABASE_PASSWORD = os.getenv('DATABASE_PASSWORD')
 DATABASE_NAME = os.getenv('DATABASE_NAME')
 
 DEBUG = True
@@ -39,6 +37,11 @@ SQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}
 
 # SQLALCHEMY_DATABASE_URI = f'sqlite:///{DATABASE_NAME}.db'
 
-SQLALCHEMY_TRACK_MODIFICATIONS = False
+SQLALCHEMY_MODIFICATIONS_TRACKS = False
 
-SECRET_KEY = os.getenv('SECRETKEY')
+appHost = os.getenv('APPHOST')
+appPort = os.getenv('APPPORT')
+
+environment = os.getenv('ENVIRONMENT')
+
+secretKey = os.getenv('SECRETKEY')
