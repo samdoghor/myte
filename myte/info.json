@@ -31,7 +31,8 @@
 
         "environment_variable": "[cyan] - Rename example.env to .env [/cyan]",
 
-        "database_configuration": " - Go to config.py, decide the database you want to use, uncomment it and run the pip instructions there"
+        "database_configuration": " - Go to config.py, decide the database you want to use, uncomment it and run the pip instructions there ",
+        "secret_key_configuration": "[cyan] - Go to .env, replace 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' in SECRETKEY with[/cyan]"
 
     },
     "os":{

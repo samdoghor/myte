@@ -1,0 +1,64 @@
+{% extends "layouts/auth.html" %}
+{% block title %} Login {% endblock %}
+{% block content %}
+
+<p class="font-1 f2 wm-grey">
+  Welcome Back!
+</p>
+<p class="font-1 f2 text-black">
+  Login to your Dashboard
+</p>
+
+<form action="/auth/login" method="post">
+  {{ form.hidden_tag() }}
+  {% with messages = get_flashed_messages(category_filter=["error"]) %}
+  {% if messages %}
+  {% for message in messages %}
+  <div class="alert alert-danger alert-dismissible fade show font-1 f-8" role="alert">
+    <span class="{{ category }}">{{ message }}</span>
+    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+  </div>
+  {% endfor %}
+  {% endif %}
+  {% endwith %}
+  {% with messages = get_flashed_messages(category_filter=["success"]) %}
+  {% if messages %}
+  {% for message in messages %}
+  <div class="alert alert-success alert-dismissible fade show font-1 f-8" role="alert">
+    <span class="{{ category }}">{{ message }}</span>
+    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+  </div>
+  {% endfor %}
+  {% endif %}
+  {% endwith %}
+  <div class="form-floating mb-3">
+    <!-- <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com" required> -->
+    {{form.email(type="email", class="form-control", id="floatingInput", placeholder="name@example.com")}}
+    <label for="floatingInput">Email address</label>
+  </div>
+  <div class="form-floating mb-3">
+    <!-- <input type="password" class="form-control" id="floatingPassword" placeholder="Password" required> -->
+    {{form.password(type="password", class="form-control", id="floatingPassword", placeholder="Password")}}
+    <label for="floatingPassword">Password</label>
+  </div>
+  <div class="form-check foleft mb-3">
+    <!-- <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked"> -->
+    {{form.remember(class="form-check-input", type="checkbox", value="", id="flexCheckChecked")}}
+    <label class="form-check-label" for="flexCheckChecked">
+      Remember me
+    </label>
+  </div>
+  <div class="mb-3">
+    <!-- <button type="submit" class="btn btn-th w-100"> Login </button> -->
+    {{form.submit(type="submit", class="btn btn-th w-100 btn-lg")}}
+  </div>
+  <div>
+    <div class="mb-2">
+      <a href="{{url_for('resetPassword')}}" class="font-1 f1 text-black"> Forgot Password? </a>
+    </div>
+    <div>
+      <a href="{{url_for('register')}}" class="font-1 f1 text-black"> Create an Account! </a>
+    </div>
+  </div>
+</form>
+{% endblock %}
