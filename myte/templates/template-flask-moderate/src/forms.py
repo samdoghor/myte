@@ -1,5 +1,5 @@
 """
-This module defines all forms needed by the users
+This module defines all forms....
 """
 # imports
 
@@ -7,7 +7,6 @@ from flask_wtf import FlaskForm
 from flask_wtf.file import FileAllowed, FileField
 from wtforms import IntegerField, SelectField, StringField, SubmitField
 from wtforms.validators import DataRequired, Email
-
 
 # forms
 
