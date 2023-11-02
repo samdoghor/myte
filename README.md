@@ -1,4 +1,4 @@
-# Myte
+# Myte ✨
 
 > Python web framework boilerplate made easy
 
@@ -10,14 +10,14 @@ Myte is a simple command-line tool for creating boilerplate code for python web 
 
 ## Supported frameworks
 
-| Framework | Status |
-| --------------- | --------------- |
-| [Flask](https://flask.palletsprojects.com/) | 🛠️ Undergoing development |
-| [FastAPI](https://fastapi.tiangolo.com/) | ❌ Not started |
-| [Tornado](https://www.tornadoweb.org/en/stable/) | ❌ Not started |
-| [Bottle](https://bottlepy.org/) | ❌ Not started  |
-| [Pyramid](https://trypyramid.com/) | ❌ Not started  |
-| [CherryPy](https://docs.cherrypy.dev/en/latest/) | ❌ Not started  |
+| Framework                                        | Status                    |
+| ------------------------------------------------ | ------------------------- |
+| [Flask](https://flask.palletsprojects.com/)      | 🛠️ Undergoing development |
+| [FastAPI](https://fastapi.tiangolo.com/)         | ❌ Not started            |
+| [Tornado](https://www.tornadoweb.org/en/stable/) | ❌ Not started            |
+| [Bottle](https://bottlepy.org/)                  | ❌ Not started            |
+| [Pyramid](https://trypyramid.com/)               | ❌ Not started            |
+| [CherryPy](https://docs.cherrypy.dev/en/latest/) | ❌ Not started            |
 
 ## Contribution
 
