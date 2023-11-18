@@ -1,3 +1,5 @@
+# server.py
+
 """
 This module defines the server configuration required to run the app
 successfully.
@@ -10,17 +12,17 @@ Flask Migrate for DB-ORM
 CSRF Protection
 Error Handling
 """
+
 # imports
 
 
-from flask import Blueprint, Flask
-from flask_migrate import Migrate
-from flask_cors import CORS
-
 import config
 import routes
-from models import db
+from flask import Blueprint, Flask
+from flask_cors import CORS
+from flask_migrate import Migrate
 from forms import csrf
+from models import db
 
 # configurations
 

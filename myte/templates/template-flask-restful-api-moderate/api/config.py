@@ -1,7 +1,7 @@
 # config.py
 
 """
-This module define all important variables, connection to DB
+This module defines...
 """
 
 # imports
@@ -14,10 +14,10 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-DATABASE_HOST = os.getenv('DATABASE_HOST')
-DATABASE_PORT = os.getenv('DATABASE_PORT')
 DATABASE_USERNAME = os.getenv('DATABASE_USERNAME')
 DATABASE_PASSWORD = os.getenv('DATABASE_PASSWORD')
+DATABASE_HOST = os.getenv('DATABASE_HOST')
+DATABASE_PORT = os.getenv('DATABASE_PORT')
 DATABASE_NAME = os.getenv('DATABASE_NAME')
 
 DEBUG = True
@@ -37,13 +37,8 @@ SQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}
 # # SQLite (goto https://www.sqlite.org/download.html, download and install, if you've not)  # noqa
 # uncomment line 40 to use SQLite DB and comment line 30
 
-# SQLALCHEMY_DATABASE_URI = f'sqlite:///{DATABASE_NAME}.db'
+SQLALCHEMY_DATABASE_URI = f'sqlite:///{DATABASE_NAME}.db'
 
-SQLALCHEMY_MODIFICATIONS_TRACKS = False
+SQLALCHEMY_TRACK_MODIFICATIONS = False
 
-appHost = os.getenv('APPHOST')
-appPort = os.getenv('APPPORT')
-
-environment = os.getenv('ENVIRONMENT')
-
-secretKey = os.getenv('SECRETKEY')
+SECRET_KEY = os.getenv('SECRETKEY')
