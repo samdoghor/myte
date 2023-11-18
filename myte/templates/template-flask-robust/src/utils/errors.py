@@ -1,8 +1,7 @@
+# error.py
+
 """
-## Module Name: error.py
-
 This module contains error handling configurations.
-
 """
 
 
