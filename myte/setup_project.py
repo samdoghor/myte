@@ -46,7 +46,7 @@ class SetupProject:
         mprint("\n")
 
         # get setup choice
-        setup_choice = ["Simple", "Moderate", "Robust"]
+        setup_choice = ["Simple", "Robust"]
         setups = [
             inquirer.List(
                 "setup",
