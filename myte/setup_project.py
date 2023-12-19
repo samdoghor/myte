@@ -5,6 +5,7 @@ This module defines functions to create the boilerplate.
 """
 
 import inquirer
+import typer
 from create_project import CreateProject
 from delete_project import DeleteProject
 from rich import print as mprint
@@ -31,34 +32,48 @@ class SetupProject:
             mprint("\n")
 
         # get framework choice
-        frameworks_choice = ["Flask", "Flask-Restful-API"]
-        frameworks = [
-            inquirer.List(
-                "framework",
-                message="Select a framework",
-                choices=frameworks_choice,
-                carousel=True,
-            )
-        ]
-        selected_framework = inquirer.prompt(frameworks)
+        try:
+            frameworks_choice = ["Flask", "Flask-Restful-API"]
+            frameworks = [
+                inquirer.List(
+                    "framework",
+                    message="Select a framework",
+                    choices=frameworks_choice,
+                    carousel=True,
+                )
+            ]
+            selected_framework = inquirer.prompt(frameworks)
 
-        mprint(f"[green] ✅ {selected_framework['framework']},  selected [/green]")  # noqa
-        mprint("\n")
+            mprint(f"[green] ✅ {selected_framework['framework']},  selected [/green]")  # noqa
+            mprint("\n")
+        except KeyboardInterrupt as e:
+            mprint(f"The Programme was terminated due to {e} Error")  # noqa
+            raise typer.Abort()
+        except TypeError as e:
+            mprint(f"The Programme was terminated due to {e} Error")  # noqa
+            raise typer.Abort()
 
         # get setup choice
-        setup_choice = ["Simple", "Robust"]
-        setups = [
-            inquirer.List(
-                "setup",
-                message="Select a framework",
-                choices=setup_choice,
-                carousel=True,
-            )
-        ]
-        selected_setup = inquirer.prompt(setups)
+        try:
+            setup_choice = ["Simple", "Robust"]
+            setups = [
+                inquirer.List(
+                    "setup",
+                    message="Select a framework",
+                    choices=setup_choice,
+                    carousel=True,
+                )
+            ]
+            selected_setup = inquirer.prompt(setups)
 
-        mprint(f"[green] ✅ {selected_setup['setup']},  selected [/green] ")  # noqa
-        mprint("\n")
+            mprint(f"[green] ✅ {selected_setup['setup']},  selected [/green] ")  # noqa
+            mprint("\n")
+        except KeyboardInterrupt as e:
+            mprint(f"The Programme was terminated due to {e} Error")  # noqa
+            raise typer.Abort()
+        except TypeError as e:
+            mprint(f"The Programme was terminated due to {e} Error")  # noqa
+            raise typer.Abort()
 
         # boilerplate execution
         if project_name and selected_framework['framework'] and selected_setup['setup']:  # noqa
