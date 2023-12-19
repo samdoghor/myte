@@ -1,4 +1,4 @@
-# Myte
+# Myte ✨
 
 > Python web framework boilerplate made easy
 
