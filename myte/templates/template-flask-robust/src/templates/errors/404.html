@@ -2,27 +2,51 @@
 {% block title %} Page Not Found {% endblock %}
 {% block content %}
 
-<div class="container ms-5 me-5 topad-2-2">
-    <div class="vh-100 ps-5 pe-5 text-center">
-        <p class="font-2 f3 pt-3 pb-3">
-            <lord-icon src="https://cdn.lordicon.com/pragornn.json" trigger="loop" delay="2000"
-                style="width:150px;height:150px">
-            </lord-icon>
-        </p>
-        <p class="font-1 f8 pt-3 pb-3">
-            404 ERROR
-        </p>
-        <p class="font-1 f2 pt-3 pb-3 lh-1-2">
-            The page you trying to view is not available. <span class="fw-bold"> Please check the url you enter and try
-                again or click on the button below to go back home</span>
-        </p>
-        <p class="font-1 f1 pt-3 pb-3">
-        <div data-aos="fade-down">
-            <span class="pe-4"> <a class="btn btn-th btn-lg ls-1" href="{{url_for('index')}}" role="button">Go back Home
-                </a> </span>
+<section class="full-height bg-color">
+    <div class="column-div">
+
+        <div class="half-width xsm-padding-y md-padding-y">
+            <a href="https://myte.samdoghor.com" target="_blank">
+                <div class="brand-logo-center logo-anim hide-md">
+                    <img src="/static/img/myte_logo.svg" alt="Myte Logo" class="brand-logo" />
+                </div>
+            </a>
+            <div class="img-holder-md-center">
+                <img src="/static/img/around_the_globe.svg" alt="" class="img-holder-md" />
+            </div>
+            <div class="text-black text-center">
+                <span> Image Attribution: </span><a href="https://storyset.com/people" target="_blank"
+                    class="text-black">People
+                    illustrations by
+                    Storyset</a>
+            </div>
         </div>
-        </p>
+
+        <div class="half-width xsm-padding-y bg-color-white full-height md-padding-y">
+            <a href="https://myte.samdoghor.com" target="_blank">
+                <div class="brand-logo-center logo-anim hide-sm">
+                    <img src="/static/img/myte_logo.svg" alt="Myte Logo" class="brand-logo" />
+                </div>
+            </a>
+            <div class="md-padding-x text-center">
+                <div class="sm-padding-y text-white">
+                    <h1> 404 </h1>
+                    <h2>
+                        Page 📑 Not Found.
+                    </h2>
+                </div>
+                <div class="sm-padding-y text-white button">
+                    <a href="/"> Go back home </a>
+                </div>
+                <div class="small-text text-white">
+                    <div class="content">
+                        <p class="end"> Thank you for using Myte 👌🏾 </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
-</div>
+</section>
 
 {% endblock %}

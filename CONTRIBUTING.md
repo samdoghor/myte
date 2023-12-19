@@ -26,7 +26,7 @@ Before you start contributing to Myte, make sure you have the following:
 
 If you encounter any issues while using Myte, please before opening an issue, ensure similar issues has not been reported already, if it has been previously reported, just comment under that issue, else report them in the issue tracker. Please include as much detail as possible, including steps to reproduce the issue.
 
-**If you find a security vulnerability, do NOT open an issue. Email [myte_security@samdoghor.com](mailto:myte_security@samdoghor.com) instead.**
+**If you find a security vulnerability, do NOT open an issue. Email [security@myte.samdoghor.com](mailto:security@myte.samdoghor.com) instead.**
 
 If you discover a bug or other issue, **please open an issue on GitHub**. Be sure to include:
 

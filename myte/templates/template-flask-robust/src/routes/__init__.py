@@ -1,4 +1,4 @@
-""" 
+"""
 Imports for all blueprints
 """
 

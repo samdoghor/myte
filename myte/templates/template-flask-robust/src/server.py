@@ -16,11 +16,12 @@ Error Handling
 # imports
 
 
-import config
-import routes
-from flask import Blueprint, Flask
+from flask import Blueprint, Flask, render_template
 from flask_cors import CORS
 from flask_migrate import Migrate
+
+import config
+import routes
 from forms import csrf
 from models import db
 
@@ -45,6 +46,19 @@ cors = CORS(server, resources={
 for blueprint in vars(routes).values():
     if isinstance(blueprint, Blueprint):
         server.register_blueprint(blueprint)
+
+
+# error Handler
+
+@server.errorhandler(404)
+def PageNotFound(e):
+    return render_template('errors/404.html'), 404
+
+
+@server.errorhandler(500)
+def ServerError(e):
+    return render_template('errors/500.html'), 500
+
 
 # application run
 if __name__ == "__main__":

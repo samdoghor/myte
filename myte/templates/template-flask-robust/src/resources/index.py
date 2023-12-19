@@ -1,4 +1,4 @@
-# server.py
+# index.py
 
 """
 This module defines the resource for the index page
