@@ -10,8 +10,7 @@ from constants import messages
 from rich import print as mprint
 from rich.console import Console
 from rich.text import Text
-
-from .setup_project import SetupProject
+from setup_project import SetupProject
 
 # cli initialization
 
