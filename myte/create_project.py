@@ -7,11 +7,12 @@ This module defines the functions that create the boilerplate.
 import os
 import shutil
 
-from constants import current_dir, messages, system_os, template_folder
 from rich import print as mprint
 from rich.console import Console
 from rich.text import Text
-from secret_key_generator import GenerateSecretKey
+
+from .constants import current_dir, messages, system_os, template_folder
+from .secret_key_generator import GenerateSecretKey
 
 
 class CreateProject:
@@ -43,21 +44,23 @@ class CreateProject:
             if system_os == "Linux":
                 mprint(messages["os"]["linux"])
 
-            mprint(messages["usage_message"]
-                   ["virtualenv_install_message_linux_mac"])
-            mprint(messages["usage_message"]
-                   ["create_virtualenv_message_linux_mac"])
-            mprint(messages["usage_message"]
-                   ["activate_virtualenv_message_linux_mac"])
+            if "VIRTUAL_ENV" not in os.environ:
+                mprint(messages["usage_message"]
+                       ["virtualenv_install_message_linux_mac"])
+                mprint(messages["usage_message"]
+                       ["create_virtualenv_message_linux_mac"])
+                mprint(messages["usage_message"]
+                       ["activate_virtualenv_message_linux_mac"])
 
         if system_os == "Windows":
             mprint(messages["os"]["windows"])
-            mprint(messages["usage_message"]
-                   ["virtualenv_install_message_windows"])
-            mprint(messages["usage_message"]
-                   ["create_virtualenv_message_windows"])
-            mprint(messages["usage_message"]
-                   ["activate_virtualenv_message_windows"])
+            if "VIRTUAL_ENV" not in os.environ:
+                mprint(messages["usage_message"]
+                       ["virtualenv_install_message_windows"])
+                mprint(messages["usage_message"]
+                       ["create_virtualenv_message_windows"])
+                mprint(messages["usage_message"]
+                       ["activate_virtualenv_message_windows"])
 
         mprint(messages["usage_message"]["install_requirements_message"])
         mprint(messages["usage_message"]["environment_variable"])
