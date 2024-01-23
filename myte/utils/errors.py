@@ -5,7 +5,7 @@ This module defines functions to tackle errors encountered.
 """
 
 
-class KeyboardInterrupt(Exception):
+class UKeyboardInterrupt(Exception):
     """ This class represents Keyboard Interruption """
 
     def __init__(self) -> None:

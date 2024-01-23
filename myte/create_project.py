@@ -11,7 +11,7 @@ from constants import current_dir, messages, system_os, template_folder
 from rich import print as mprint
 from rich.console import Console
 from rich.text import Text
-from secret_key_generator import GenerateSecretKey
+from utils import GenerateSecretKey
 
 
 class CreateProject:

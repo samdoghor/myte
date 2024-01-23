@@ -1,6 +1,30 @@
 [build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "Myte"
+version = "0.0.1"
+dependencies = [
+    "typer",
+    "inquirer",
+]
+authors = [
+  { name="Samuel Doghor", email="talkto@samdoghor.com" },
+]
+description = "Myte allows users to choose from popular web frameworks like Flask, FastAPI, and Tornado etc when initializing a new project. After entering a project name, the user selects their preferred framework which then generates the basic directory structure and boilerplate code to get started."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Developers",
+    "Topic :: Software Development :: Boilerplate",
+    "Environment :: Console",
+]
+keywords = ["Myte", "Flask", "FastAPI", "Tornado", "Bottle", "Pyramid", "CherryPy", "Boilerplate", "Python web framework", "Project bootstrapping", "Framework"]
+
+[project.urls]
+Homepage = "https://github.com/samdoghor/myte"
+Issues = "https://github.com/samdoghor/myte/issues"
