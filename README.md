@@ -42,6 +42,7 @@ Install `Myte` once without a virtual environment so it would be available to bo
 ### How to start your web project in any of the frameworks
 
 - Create a virtual environment
+- Activate the virtual environment
 - Run the code below
 
 ```Bash Copy
@@ -54,7 +55,7 @@ myte start project
 $ myte start project
 
 Compatible Note:
-Myte requires at least Python 3.11. However, the tool may still work
+Myte requires at least Python 3.8. However, the tool may still work
 fine in lower versions. If you encounter any error, do well to report
 them here https://cutt.ly/1wSR7LW0
 Thank you
@@ -106,7 +107,7 @@ and run the pip instructions there
 $ myte start project
 
 Compatible Note:
-Myte requires at least Python 3.11. However, the tool may still work
+Myte requires at least Python 3.8. However, the tool may still work
 fine in lower versions. If you encounter any error, do well to report
 them here https://cutt.ly/1wSR7LW0
 Thank you

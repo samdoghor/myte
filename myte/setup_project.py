@@ -10,6 +10,7 @@ from create_project import CreateProject
 from delete_project import DeleteProject
 from rich import print as mprint
 from rich.prompt import Prompt
+from utils import UKeyboardInterrupt
 
 
 class SetupProject:
@@ -46,6 +47,9 @@ class SetupProject:
 
             mprint(f"[green] ✅ {selected_framework['framework']},  selected [/green]")  # noqa
             mprint("\n")
+        except UKeyboardInterrupt as e:
+            mprint(f"{e.message}")  # noqa
+            raise typer.Abort()
         except KeyboardInterrupt as e:
             mprint(f"The Programme was terminated due to {e} Error")  # noqa
             raise typer.Abort()
