@@ -1,0 +1,2752 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline_to_binary",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "publish_cmdline",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "default_description",
+        "importPath": "docutils.core",
+        "description": "docutils.core",
+        "isExtraImport": true,
+        "detail": "docutils.core",
+        "documentation": {}
+    },
+    {
+        "label": "locale",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "locale",
+        "description": "locale",
+        "detail": "locale",
+        "documentation": {}
+    },
+    {
+        "label": "manpage",
+        "importPath": "docutils.writers",
+        "description": "docutils.writers",
+        "isExtraImport": true,
+        "detail": "docutils.writers",
+        "documentation": {}
+    },
+    {
+        "label": "Writer",
+        "importPath": "docutils.writers.odf_odt",
+        "description": "docutils.writers.odf_odt",
+        "isExtraImport": true,
+        "detail": "docutils.writers.odf_odt",
+        "documentation": {}
+    },
+    {
+        "label": "Reader",
+        "importPath": "docutils.writers.odf_odt",
+        "description": "docutils.writers.odf_odt",
+        "isExtraImport": true,
+        "detail": "docutils.writers.odf_odt",
+        "documentation": {}
+    },
+    {
+        "label": "prepstyles",
+        "importPath": "docutils.writers.odf_odt",
+        "description": "docutils.writers.odf_odt",
+        "isExtraImport": true,
+        "detail": "docutils.writers.odf_odt",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "WeakValueDictionary",
+        "importPath": "weakref",
+        "description": "weakref",
+        "isExtraImport": true,
+        "detail": "weakref",
+        "documentation": {}
+    },
+    {
+        "label": "WeakValueDictionary",
+        "importPath": "weakref",
+        "description": "weakref",
+        "isExtraImport": true,
+        "detail": "weakref",
+        "documentation": {}
+    },
+    {
+        "label": "inspect",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "inspect",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "aliased",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "aliased",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "reqparse",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "Api",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "Api",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "importPath": "resources",
+        "description": "resources",
+        "isExtraImport": true,
+        "detail": "resources",
+        "documentation": {}
+    },
+    {
+        "label": "TodoItem",
+        "importPath": "resources",
+        "description": "resources",
+        "isExtraImport": true,
+        "detail": "resources",
+        "documentation": {}
+    },
+    {
+        "label": "Index",
+        "importPath": "resources",
+        "description": "resources",
+        "isExtraImport": true,
+        "detail": "resources",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "importPath": "resources",
+        "description": "resources",
+        "isExtraImport": true,
+        "detail": "resources",
+        "documentation": {}
+    },
+    {
+        "label": "IndexResource",
+        "importPath": "resources",
+        "description": "resources",
+        "isExtraImport": true,
+        "detail": "resources",
+        "documentation": {}
+    },
+    {
+        "label": "wraps",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "Swagger",
+        "importPath": "flasgger",
+        "description": "flasgger",
+        "isExtraImport": true,
+        "detail": "flasgger",
+        "documentation": {}
+    },
+    {
+        "label": "Migrate",
+        "importPath": "flask_migrate",
+        "description": "flask_migrate",
+        "isExtraImport": true,
+        "detail": "flask_migrate",
+        "documentation": {}
+    },
+    {
+        "label": "Migrate",
+        "importPath": "flask_migrate",
+        "description": "flask_migrate",
+        "isExtraImport": true,
+        "detail": "flask_migrate",
+        "documentation": {}
+    },
+    {
+        "label": "Migrate",
+        "importPath": "flask_migrate",
+        "description": "flask_migrate",
+        "isExtraImport": true,
+        "detail": "flask_migrate",
+        "documentation": {}
+    },
+    {
+        "label": "Migrate",
+        "importPath": "flask_migrate",
+        "description": "flask_migrate",
+        "isExtraImport": true,
+        "detail": "flask_migrate",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "config",
+        "description": "config",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "routes",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "routes",
+        "description": "routes",
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "FlaskForm",
+        "importPath": "flask_wtf",
+        "description": "flask_wtf",
+        "isExtraImport": true,
+        "detail": "flask_wtf",
+        "documentation": {}
+    },
+    {
+        "label": "FileAllowed",
+        "importPath": "flask_wtf.file",
+        "description": "flask_wtf.file",
+        "isExtraImport": true,
+        "detail": "flask_wtf.file",
+        "documentation": {}
+    },
+    {
+        "label": "FileField",
+        "importPath": "flask_wtf.file",
+        "description": "flask_wtf.file",
+        "isExtraImport": true,
+        "detail": "flask_wtf.file",
+        "documentation": {}
+    },
+    {
+        "label": "IntegerField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {}
+    },
+    {
+        "label": "SelectField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {}
+    },
+    {
+        "label": "StringField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {}
+    },
+    {
+        "label": "SubmitField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {}
+    },
+    {
+        "label": "DataRequired",
+        "importPath": "wtforms.validators",
+        "description": "wtforms.validators",
+        "isExtraImport": true,
+        "detail": "wtforms.validators",
+        "documentation": {}
+    },
+    {
+        "label": "Email",
+        "importPath": "wtforms.validators",
+        "description": "wtforms.validators",
+        "isExtraImport": true,
+        "detail": "wtforms.validators",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "csrf",
+        "importPath": "forms",
+        "description": "forms",
+        "isExtraImport": true,
+        "detail": "forms",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "platform",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "platform",
+        "description": "platform",
+        "detail": "platform",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "system_os",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "template_folder",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "print",
+        "importPath": "rich",
+        "description": "rich",
+        "isExtraImport": true,
+        "detail": "rich",
+        "documentation": {}
+    },
+    {
+        "label": "print",
+        "importPath": "rich",
+        "description": "rich",
+        "isExtraImport": true,
+        "detail": "rich",
+        "documentation": {}
+    },
+    {
+        "label": "print",
+        "importPath": "rich",
+        "description": "rich",
+        "isExtraImport": true,
+        "detail": "rich",
+        "documentation": {}
+    },
+    {
+        "label": "print",
+        "importPath": "rich",
+        "description": "rich",
+        "isExtraImport": true,
+        "detail": "rich",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Console",
+        "importPath": "rich.console",
+        "description": "rich.console",
+        "isExtraImport": true,
+        "detail": "rich.console",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "rich.text",
+        "description": "rich.text",
+        "isExtraImport": true,
+        "detail": "rich.text",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "rich.text",
+        "description": "rich.text",
+        "isExtraImport": true,
+        "detail": "rich.text",
+        "documentation": {}
+    },
+    {
+        "label": "GenerateSecretKey",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "typer",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "typer",
+        "description": "typer",
+        "detail": "typer",
+        "documentation": {}
+    },
+    {
+        "label": "inquirer",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "inquirer",
+        "description": "inquirer",
+        "detail": "inquirer",
+        "documentation": {}
+    },
+    {
+        "label": "Prompt",
+        "importPath": "rich.prompt",
+        "description": "rich.prompt",
+        "isExtraImport": true,
+        "detail": "rich.prompt",
+        "documentation": {}
+    },
+    {
+        "label": "secrets",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "secrets",
+        "description": "secrets",
+        "detail": "secrets",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "env.Scripts.rst2html",
+        "description": "env.Scripts.rst2html",
+        "peekOfCode": "description = ('Generates (X)HTML documents from standalone reStructuredText '\n               'sources.  ' + default_description)\npublish_cmdline(writer_name='html', description=description)",
+        "detail": "env.Scripts.rst2html",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "env.Scripts.rst2html4",
+        "description": "env.Scripts.rst2html4",
+        "peekOfCode": "description = ('Generates (X)HTML documents from standalone reStructuredText '\n               'sources.  ' + default_description)\npublish_cmdline(writer_name='html4', description=description)",
+        "detail": "env.Scripts.rst2html4",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "env.Scripts.rst2html5",
+        "description": "env.Scripts.rst2html5",
+        "peekOfCode": "description = ('Generates HTML5 documents from standalone '\n               'reStructuredText sources.\\n'\n               + default_description)\npublish_cmdline(writer_name='html5', description=description)",
+        "detail": "env.Scripts.rst2html5",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "env.Scripts.rst2latex",
+        "description": "env.Scripts.rst2latex",
+        "peekOfCode": "description = ('Generates LaTeX documents from standalone reStructuredText '\n               'sources. '\n               'Reads from <source> (default is stdin) and writes to '\n               '<destination> (default is stdout).  See '\n               '<https://docutils.sourceforge.io/docs/user/latex.html> for '\n               'the full reference.')\npublish_cmdline(writer_name='latex', description=description)",
+        "detail": "env.Scripts.rst2latex",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "env.Scripts.rst2man",
+        "description": "env.Scripts.rst2man",
+        "peekOfCode": "description = (\"Generates plain unix manual documents.  \"\n               + default_description)\npublish_cmdline(writer=manpage.Writer(), description=description)",
+        "detail": "env.Scripts.rst2man",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "env.Scripts.rst2odt",
+        "description": "env.Scripts.rst2odt",
+        "peekOfCode": "description = ('Generates OpenDocument/OpenOffice/ODF documents from '\n               'standalone reStructuredText sources.  ' + default_description)\nwriter = Writer()\nreader = Reader()\noutput = publish_cmdline_to_binary(reader=reader, writer=writer,\n                                   description=description)",
+        "detail": "env.Scripts.rst2odt",
+        "documentation": {}
+    },
+    {
+        "label": "writer",
+        "kind": 5,
+        "importPath": "env.Scripts.rst2odt",
+        "description": "env.Scripts.rst2odt",
+        "peekOfCode": "writer = Writer()\nreader = Reader()\noutput = publish_cmdline_to_binary(reader=reader, writer=writer,\n                                   description=description)",
+        "detail": "env.Scripts.rst2odt",
+        "documentation": {}
+    },
+    {
+        "label": "reader",
+        "kind": 5,
+        "importPath": "env.Scripts.rst2odt",
+        "description": "env.Scripts.rst2odt",
+        "peekOfCode": "reader = Reader()\noutput = publish_cmdline_to_binary(reader=reader, writer=writer,\n                                   description=description)",
+        "detail": "env.Scripts.rst2odt",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 5,
+        "importPath": "env.Scripts.rst2odt",
+        "description": "env.Scripts.rst2odt",
+        "peekOfCode": "output = publish_cmdline_to_binary(reader=reader, writer=writer,\n                                   description=description)",
+        "detail": "env.Scripts.rst2odt",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "env.Scripts.rst2pseudoxml",
+        "description": "env.Scripts.rst2pseudoxml",
+        "peekOfCode": "description = ('Generates pseudo-XML from standalone reStructuredText '\n               'sources (for testing purposes).  ' + default_description)\npublish_cmdline(description=description)",
+        "detail": "env.Scripts.rst2pseudoxml",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "env.Scripts.rst2s5",
+        "description": "env.Scripts.rst2s5",
+        "peekOfCode": "description = ('Generates S5 (X)HTML slideshow documents from standalone '\n               'reStructuredText sources.  ' + default_description)\npublish_cmdline(writer_name='s5', description=description)",
+        "detail": "env.Scripts.rst2s5",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "env.Scripts.rst2xetex",
+        "description": "env.Scripts.rst2xetex",
+        "peekOfCode": "description = ('Generates LaTeX documents from standalone reStructuredText '\n               'sources for compilation with the Unicode-aware TeX variants '\n               'XeLaTeX or LuaLaTeX. '\n               'Reads from <source> (default is stdin) and writes to '\n               '<destination> (default is stdout).  See '\n               '<https://docutils.sourceforge.io/docs/user/latex.html> for '\n               'the full reference.')\npublish_cmdline(writer_name='xetex', description=description)",
+        "detail": "env.Scripts.rst2xetex",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "env.Scripts.rst2xml",
+        "description": "env.Scripts.rst2xml",
+        "peekOfCode": "description = ('Generates Docutils-native XML from standalone '\n               'reStructuredText sources.  ' + default_description)\npublish_cmdline(writer_name='xml', description=description)",
+        "detail": "env.Scripts.rst2xml",
+        "documentation": {}
+    },
+    {
+        "label": "description",
+        "kind": 5,
+        "importPath": "env.Scripts.rstpep2html",
+        "description": "env.Scripts.rstpep2html",
+        "peekOfCode": "description = ('Generates (X)HTML from reStructuredText-format PEP files.  '\n               + default_description)\npublish_cmdline(reader_name='pep', writer_name='pep_html',\n                description=description)",
+        "detail": "env.Scripts.rstpep2html",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "MetaBaseModel",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.models.abc",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.models.abc",
+        "peekOfCode": "class MetaBaseModel(db.Model.__class__):\n    \"\"\" Define a metaclass for the BaseModel\n        Implement `__getitem__` for managing aliases \"\"\"\n    def __init__(cls, *args):\n        super().__init__(*args)\n        cls.aliases = WeakValueDictionary()\n    def __getitem__(cls, key):\n        try:\n            alias = cls.aliases[key]\n        except KeyError:",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.models.abc",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.models.abc",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.models.abc",
+        "peekOfCode": "class BaseModel:\n    \"\"\" Generalize __init__, __repr__ and to_json\n        Based on the models columns \"\"\"\n    print_filter = ('password')\n    to_json_filter = ('password')\n    def __repr__(self):\n        \"\"\" Define a base way to print models\n            Columns inside `print_filter` are excluded \"\"\"\n        return \"%s(%s)\" % (\n            self.__class__.__name__,",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.models.abc",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.models.todo",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.models.todo",
+        "peekOfCode": "class Todo(db.Model):\n    \"\"\"\n    todo model class representing ....\n    \"\"\"\n    __tablename__ = \"todos\"\n    id = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(), nullable=False)\n    description = db.Column(db.String(), nullable=True)\n    status = db.Column(db.Boolean(), nullable=False)\n    created_at = db.Column(db.DateTime(), default=datetime.utcnow)",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.models.todo",
+        "documentation": {}
+    },
+    {
+        "label": "TodoItem",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.models.todo_item",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.models.todo_item",
+        "peekOfCode": "class TodoItem(db.Model, BaseModel, metaclass=MetaBaseModel):\n    \"\"\"\n    todo item model class representing ....\n    \"\"\"\n    __tablename__ = \"todo_items\"\n    id = db.Column(db.Integer, primary_key=True)\n    task = db.Column(db.String(), nullable=False)\n    description = db.Column(db.String(), nullable=True)\n    status = db.Column(db.Boolean(), nullable=False)\n    created_at = db.Column(db.DateTime(), default=datetime.utcnow)",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.models.todo_item",
+        "documentation": {}
+    },
+    {
+        "label": "Index",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.resources.index",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.resources.index",
+        "peekOfCode": "class Index(Resource):\n    \"\"\" This class defines... \"\"\"\n    def get(self):\n        \"\"\" This function defines... \"\"\"\n        return {'hello': 'world'}",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.resources.index",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.resources.todo",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.resources.todo",
+        "peekOfCode": "class Todo(Resource):\n    \"\"\" This class defines... \"\"\"\n    def create(self):\n        \"\"\" This function defines... \"\"\"\n        return\n    def view_all(self):\n        \"\"\" This function defines... \"\"\"\n        return\n    def view_one(self, id):\n        \"\"\" This function defines... \"\"\"",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.resources.todo",
+        "documentation": {}
+    },
+    {
+        "label": "TodoItem",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.resources.todo_item",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.resources.todo_item",
+        "peekOfCode": "class TodoItem(Resource):\n    \"\"\" This class defines... \"\"\"\n    def create(self):\n        \"\"\" This function defines... \"\"\"\n        return\n    def view_all(self):\n        \"\"\" This function defines... \"\"\"\n        return\n    def view_one(self, id):\n        \"\"\" This function defines... \"\"\"",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.resources.todo_item",
+        "documentation": {}
+    },
+    {
+        "label": "TodoBlueprint",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.routes.todo",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.routes.todo",
+        "peekOfCode": "TodoBlueprint = Blueprint(\"todo\", __name__)\n# routes\nTodoBlueprint.route(\n    \"/todos\", methods=['POST'])(Todo.create)\nTodoBlueprint.route(\n    \"/todos\", methods=['GET'])(Todo.view_all)\nTodoBlueprint.route(\n    \"/todos/<int:id>\", methods=['GET'])(Todo.view_one)\nTodoBlueprint.route(\n    \"/todos/<int:id>\", methods=['PUT'])(Todo.update)",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.routes.todo",
+        "documentation": {}
+    },
+    {
+        "label": "TodoItemBlueprint",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.routes.todo_item",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.routes.todo_item",
+        "peekOfCode": "TodoItemBlueprint = Blueprint(\"todo_item\", __name__)\n# routes\nTodoItemBlueprint.route(\n    \"/todo_items\", methods=['POST'])(TodoItem.create)\nTodoItemBlueprint.route(\n    \"/todo_items\", methods=['GET'])(TodoItem.view_all)\nTodoItemBlueprint.route(\n    \"/todo_items/<int:id>\", methods=['GET'])(TodoItem.view_one)\nTodoItemBlueprint.route(\n    \"/todo_items/<int:id>\", methods=['PUT'])(TodoItem.update)",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.routes.todo_item",
+        "documentation": {}
+    },
+    {
+        "label": "BadRequest",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "peekOfCode": "class BadRequest(Exception):\n    \"\"\" This class represents a 400 bad request \"\"\"\n    def __init__(self) -> None:\n        self.code = 400\n        self.type = 'Bad Request'\n        self.message = 'A bad request error has occurred.  A missing required parameters, or invalid data has caused this error.'  # noqa\nclass Unauthorized(Exception):\n    \"\"\" This class represents a 401 unauthorized request \"\"\"\n    def __init__(self) -> None:\n        self.code = 401",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "documentation": {}
+    },
+    {
+        "label": "Unauthorized",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "peekOfCode": "class Unauthorized(Exception):\n    \"\"\" This class represents a 401 unauthorized request \"\"\"\n    def __init__(self) -> None:\n        self.code = 401\n        self.type = 'Unauthorized Request'\n        self.message = 'An unauthorized request was made. The API requires authentication and the client fails to provide valid credentials, this error will occur.'  # noqa\nclass Forbidden(Exception):\n    \"\"\" This class represents a 403 unauthorized request \"\"\"\n    def __init__(self) -> None:\n        self.code = 403",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "documentation": {}
+    },
+    {
+        "label": "Forbidden",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "peekOfCode": "class Forbidden(Exception):\n    \"\"\" This class represents a 403 unauthorized request \"\"\"\n    def __init__(self) -> None:\n        self.code = 403\n        self.type = 'Forbidden Request'\n        self.message = 'A forbidden request was made. The request was not authorized to perform the requested operation. This may indicate that the client lacks the necessary permissions or credentials'  # noqa\nclass DataNotFound(Exception):\n    \"\"\" This class represents a 404 not found error \"\"\"\n    def __init__(self) -> None:\n        self.code = 404",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "documentation": {}
+    },
+    {
+        "label": "DataNotFound",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "peekOfCode": "class DataNotFound(Exception):\n    \"\"\" This class represents a 404 not found error \"\"\"\n    def __init__(self) -> None:\n        self.code = 404\n        self.type = 'Not Found'\n        self.message = 'Data was not found.'\nclass MethodNotAllowed(Exception):\n    \"\"\" This class represents a 405 method not allowed error \"\"\"\n    def __init__(self) -> None:\n        self.code = 405",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "documentation": {}
+    },
+    {
+        "label": "MethodNotAllowed",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "peekOfCode": "class MethodNotAllowed(Exception):\n    \"\"\" This class represents a 405 method not allowed error \"\"\"\n    def __init__(self) -> None:\n        self.code = 405\n        self.type = 'Method not Allowed'\n        self.message = 'The HTTP method used for the request is not supported for the requested resource.'  # noqa\nclass Conflict(Exception):\n    \"\"\" This class represents a 409 conflict error \"\"\"\n    def __init__(self) -> None:\n        self.code = 409",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "documentation": {}
+    },
+    {
+        "label": "Conflict",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "peekOfCode": "class Conflict(Exception):\n    \"\"\" This class represents a 409 conflict error \"\"\"\n    def __init__(self) -> None:\n        self.code = 409\n        self.type = 'Conflict Error'\n        self.message = 'Conflict with data.This error occurs if the requested POST operation conflicts with the current state of the server'  # noqa\nclass TooManyRequest(Exception):\n    \"\"\" This class represents a 429 too many requests error \"\"\"\n    def __init__(self) -> None:\n        self.code = 429",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "documentation": {}
+    },
+    {
+        "label": "TooManyRequest",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "peekOfCode": "class TooManyRequest(Exception):\n    \"\"\" This class represents a 429 too many requests error \"\"\"\n    def __init__(self) -> None:\n        self.code = 429\n        self.type = 'Too Many Requests'\n        self.message = 'Too many requests where made within a given time frame, and the server is rate-limiting the  to prevent abuse of API'  # noqa\nclass InternalServerError(Exception):\n    \"\"\" This class represents a 500 internal server error \"\"\"\n    def __init__(self) -> None:\n        self.code = 500",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "documentation": {}
+    },
+    {
+        "label": "InternalServerError",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "peekOfCode": "class InternalServerError(Exception):\n    \"\"\" This class represents a 500 internal server error \"\"\"\n    def __init__(self) -> None:\n        self.code = 500\n        self.type = 'Internal Server Error'\n        self.message = 'An internal server error has occurred. If this message persist please contact customer support.'  # noqa",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.utils.errors",
+        "documentation": {}
+    },
+    {
+        "label": "parse_params",
+        "kind": 2,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.utils.parse_params",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.utils.parse_params",
+        "peekOfCode": "def parse_params(*arguments):\n    \"\"\"\n    Parse the parameters\n    Forward them to the wrapped function as named parameters\n    \"\"\"\n    def parse(func):\n        \"\"\" Wrapper \"\"\"\n        @wraps(func)\n        def resource_verb(*args, **kwargs):\n            \"\"\" Decorated function \"\"\"",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.utils.parse_params",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_USERNAME",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "peekOfCode": "DATABASE_USERNAME = os.getenv('DATABASE_USERNAME')\nDATABASE_PASSWORD = os.getenv('DATABASE_PASSWORD')\nDATABASE_HOST = os.getenv('DATABASE_HOST')\nDATABASE_PORT = os.getenv('DATABASE_PORT')\nDATABASE_NAME = os.getenv('DATABASE_NAME')\nDATABASE_NAME_TEST = os.getenv('DATABASE_NAME_TEST')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_PASSWORD",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "peekOfCode": "DATABASE_PASSWORD = os.getenv('DATABASE_PASSWORD')\nDATABASE_HOST = os.getenv('DATABASE_HOST')\nDATABASE_PORT = os.getenv('DATABASE_PORT')\nDATABASE_NAME = os.getenv('DATABASE_NAME')\nDATABASE_NAME_TEST = os.getenv('DATABASE_NAME_TEST')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_HOST",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "peekOfCode": "DATABASE_HOST = os.getenv('DATABASE_HOST')\nDATABASE_PORT = os.getenv('DATABASE_PORT')\nDATABASE_NAME = os.getenv('DATABASE_NAME')\nDATABASE_NAME_TEST = os.getenv('DATABASE_NAME_TEST')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_PORT",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "peekOfCode": "DATABASE_PORT = os.getenv('DATABASE_PORT')\nDATABASE_NAME = os.getenv('DATABASE_NAME')\nDATABASE_NAME_TEST = os.getenv('DATABASE_NAME_TEST')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_NAME",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "peekOfCode": "DATABASE_NAME = os.getenv('DATABASE_NAME')\nDATABASE_NAME_TEST = os.getenv('DATABASE_NAME_TEST')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30\n# SQLALCHEMY_DATABASE_URI = f'mysql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_NAME_TEST",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "peekOfCode": "DATABASE_NAME_TEST = os.getenv('DATABASE_NAME_TEST')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30\n# SQLALCHEMY_DATABASE_URI = f'mysql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # SQLite (goto https://www.sqlite.org/download.html, download and install, if you've not)  # noqa",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "peekOfCode": "DEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30\n# SQLALCHEMY_DATABASE_URI = f'mysql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # SQLite (goto https://www.sqlite.org/download.html, download and install, if you've not)  # noqa\n# uncomment line 40 to use SQLite DB and comment line 30",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URI",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30\n# SQLALCHEMY_DATABASE_URI = f'mysql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # SQLite (goto https://www.sqlite.org/download.html, download and install, if you've not)  # noqa\n# uncomment line 40 to use SQLite DB and comment line 30\nSQLALCHEMY_DATABASE_URI = f'sqlite:///{DATABASE_NAME}.db'\nSQLALCHEMY_TRACK_MODIFICATIONS = False\nSECRET_KEY = os.getenv('SECRETKEY')\n# test database (PostgreSQl)",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URI",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URI = f'sqlite:///{DATABASE_NAME}.db'\nSQLALCHEMY_TRACK_MODIFICATIONS = False\nSECRET_KEY = os.getenv('SECRETKEY')\n# test database (PostgreSQl)\ntest_db_url = f'{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME_TEST}'  # noqa\n# server\nSECRET_KEY = os.getenv(\"SECRET_KEY\")\nENVIRONMENT = os.getenv(\"ENVIRONMENT\") == \"DEV\"\nAPPLICATION_ROOT = os.getenv(\"API_APPLICATION_ROOT\", \"/v1/api\")\nHOST = os.getenv(\"APPLICATION_HOST\")",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_TRACK_MODIFICATIONS",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "peekOfCode": "SQLALCHEMY_TRACK_MODIFICATIONS = False\nSECRET_KEY = os.getenv('SECRETKEY')\n# test database (PostgreSQl)\ntest_db_url = f'{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME_TEST}'  # noqa\n# server\nSECRET_KEY = os.getenv(\"SECRET_KEY\")\nENVIRONMENT = os.getenv(\"ENVIRONMENT\") == \"DEV\"\nAPPLICATION_ROOT = os.getenv(\"API_APPLICATION_ROOT\", \"/v1/api\")\nHOST = os.getenv(\"APPLICATION_HOST\")\nPORT = int(os.getenv(\"APPLICATION_PORT\", \"3000\"))",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "peekOfCode": "SECRET_KEY = os.getenv('SECRETKEY')\n# test database (PostgreSQl)\ntest_db_url = f'{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME_TEST}'  # noqa\n# server\nSECRET_KEY = os.getenv(\"SECRET_KEY\")\nENVIRONMENT = os.getenv(\"ENVIRONMENT\") == \"DEV\"\nAPPLICATION_ROOT = os.getenv(\"API_APPLICATION_ROOT\", \"/v1/api\")\nHOST = os.getenv(\"APPLICATION_HOST\")\nPORT = int(os.getenv(\"APPLICATION_PORT\", \"3000\"))",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "test_db_url",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "peekOfCode": "test_db_url = f'{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME_TEST}'  # noqa\n# server\nSECRET_KEY = os.getenv(\"SECRET_KEY\")\nENVIRONMENT = os.getenv(\"ENVIRONMENT\") == \"DEV\"\nAPPLICATION_ROOT = os.getenv(\"API_APPLICATION_ROOT\", \"/v1/api\")\nHOST = os.getenv(\"APPLICATION_HOST\")\nPORT = int(os.getenv(\"APPLICATION_PORT\", \"3000\"))",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "peekOfCode": "SECRET_KEY = os.getenv(\"SECRET_KEY\")\nENVIRONMENT = os.getenv(\"ENVIRONMENT\") == \"DEV\"\nAPPLICATION_ROOT = os.getenv(\"API_APPLICATION_ROOT\", \"/v1/api\")\nHOST = os.getenv(\"APPLICATION_HOST\")\nPORT = int(os.getenv(\"APPLICATION_PORT\", \"3000\"))",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "ENVIRONMENT",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "peekOfCode": "ENVIRONMENT = os.getenv(\"ENVIRONMENT\") == \"DEV\"\nAPPLICATION_ROOT = os.getenv(\"API_APPLICATION_ROOT\", \"/v1/api\")\nHOST = os.getenv(\"APPLICATION_HOST\")\nPORT = int(os.getenv(\"APPLICATION_PORT\", \"3000\"))",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "APPLICATION_ROOT",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "peekOfCode": "APPLICATION_ROOT = os.getenv(\"API_APPLICATION_ROOT\", \"/v1/api\")\nHOST = os.getenv(\"APPLICATION_HOST\")\nPORT = int(os.getenv(\"APPLICATION_PORT\", \"3000\"))",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "HOST",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "peekOfCode": "HOST = os.getenv(\"APPLICATION_HOST\")\nPORT = int(os.getenv(\"APPLICATION_PORT\", \"3000\"))",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "PORT",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "peekOfCode": "PORT = int(os.getenv(\"APPLICATION_PORT\", \"3000\"))",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "server",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "peekOfCode": "server = Flask(__name__)\nserver.config['SECRET_KEY'] = config.SECRET_KEY\nserver.config[\"SWAGGER\"] = {\n    \"swagger_version\": \"2.0\",  # noqa : only modified to suit swagger_version of choice\n    \"title\": \"\",   # put the title here (APP Name)\n    \"description\": \"\"\" \"\"\",\n    \"termsOfService\": \"#\",  # put your terms of service here\n    \"version\": \"1.0.0\",  # version of your API\n    \"uiversion\": 3,  # noqa : only modified to suit swagger UI version of choice\n    \"static_url_path\": \"/v1/docs\",",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "server.config['SECRET_KEY']",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "peekOfCode": "server.config['SECRET_KEY'] = config.SECRET_KEY\nserver.config[\"SWAGGER\"] = {\n    \"swagger_version\": \"2.0\",  # noqa : only modified to suit swagger_version of choice\n    \"title\": \"\",   # put the title here (APP Name)\n    \"description\": \"\"\" \"\"\",\n    \"termsOfService\": \"#\",  # put your terms of service here\n    \"version\": \"1.0.0\",  # version of your API\n    \"uiversion\": 3,  # noqa : only modified to suit swagger UI version of choice\n    \"static_url_path\": \"/v1/docs\",\n}",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "server.config[\"SWAGGER\"]",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "peekOfCode": "server.config[\"SWAGGER\"] = {\n    \"swagger_version\": \"2.0\",  # noqa : only modified to suit swagger_version of choice\n    \"title\": \"\",   # put the title here (APP Name)\n    \"description\": \"\"\" \"\"\",\n    \"termsOfService\": \"#\",  # put your terms of service here\n    \"version\": \"1.0.0\",  # version of your API\n    \"uiversion\": 3,  # noqa : only modified to suit swagger UI version of choice\n    \"static_url_path\": \"/v1/docs\",\n}\nswagger_config = Swagger.DEFAULT_CONFIG.copy()",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "swagger_config",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "peekOfCode": "swagger_config = Swagger.DEFAULT_CONFIG.copy()\nswagger_config[\"openapi\"] = \"3.0.3\"  # noqa : only modified to suit openapi version of choice\nSwagger(server, config=swagger_config)\nserver.debug = config.DEBUG\nserver.config[\"SQLALCHEMY_DATABASE_URI\"] = config.SQLALCHEMY_DATABASE_URI\nserver.config[\"SQLALCHEMY_TRACK_MODIFICATIONS\"] = config.SQLALCHEMY_TRACK_MODIFICATIONS  # noqa\ndb.init_app(server)\ndb.app = server\nmigrate = Migrate(server, db)\napi = Api(server)",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "swagger_config[\"openapi\"]",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "peekOfCode": "swagger_config[\"openapi\"] = \"3.0.3\"  # noqa : only modified to suit openapi version of choice\nSwagger(server, config=swagger_config)\nserver.debug = config.DEBUG\nserver.config[\"SQLALCHEMY_DATABASE_URI\"] = config.SQLALCHEMY_DATABASE_URI\nserver.config[\"SQLALCHEMY_TRACK_MODIFICATIONS\"] = config.SQLALCHEMY_TRACK_MODIFICATIONS  # noqa\ndb.init_app(server)\ndb.app = server\nmigrate = Migrate(server, db)\napi = Api(server)\nfor blueprint in vars(routes).values():",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "server.debug",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "peekOfCode": "server.debug = config.DEBUG\nserver.config[\"SQLALCHEMY_DATABASE_URI\"] = config.SQLALCHEMY_DATABASE_URI\nserver.config[\"SQLALCHEMY_TRACK_MODIFICATIONS\"] = config.SQLALCHEMY_TRACK_MODIFICATIONS  # noqa\ndb.init_app(server)\ndb.app = server\nmigrate = Migrate(server, db)\napi = Api(server)\nfor blueprint in vars(routes).values():\n    if isinstance(blueprint, Blueprint):\n        server.register_blueprint(",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "server.config[\"SQLALCHEMY_DATABASE_URI\"]",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "peekOfCode": "server.config[\"SQLALCHEMY_DATABASE_URI\"] = config.SQLALCHEMY_DATABASE_URI\nserver.config[\"SQLALCHEMY_TRACK_MODIFICATIONS\"] = config.SQLALCHEMY_TRACK_MODIFICATIONS  # noqa\ndb.init_app(server)\ndb.app = server\nmigrate = Migrate(server, db)\napi = Api(server)\nfor blueprint in vars(routes).values():\n    if isinstance(blueprint, Blueprint):\n        server.register_blueprint(\n            blueprint, url_prefix=config.APPLICATION_ROOT)",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "server.config[\"SQLALCHEMY_TRACK_MODIFICATIONS\"]",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "peekOfCode": "server.config[\"SQLALCHEMY_TRACK_MODIFICATIONS\"] = config.SQLALCHEMY_TRACK_MODIFICATIONS  # noqa\ndb.init_app(server)\ndb.app = server\nmigrate = Migrate(server, db)\napi = Api(server)\nfor blueprint in vars(routes).values():\n    if isinstance(blueprint, Blueprint):\n        server.register_blueprint(\n            blueprint, url_prefix=config.APPLICATION_ROOT)\n# error handling",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "db.app",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "peekOfCode": "db.app = server\nmigrate = Migrate(server, db)\napi = Api(server)\nfor blueprint in vars(routes).values():\n    if isinstance(blueprint, Blueprint):\n        server.register_blueprint(\n            blueprint, url_prefix=config.APPLICATION_ROOT)\n# error handling\n# run\nif __name__ == \"__main__\":",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "migrate",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "peekOfCode": "migrate = Migrate(server, db)\napi = Api(server)\nfor blueprint in vars(routes).values():\n    if isinstance(blueprint, Blueprint):\n        server.register_blueprint(\n            blueprint, url_prefix=config.APPLICATION_ROOT)\n# error handling\n# run\nif __name__ == \"__main__\":\n    server.debug = config.DEBUG",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "description": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "peekOfCode": "api = Api(server)\nfor blueprint in vars(routes).values():\n    if isinstance(blueprint, Blueprint):\n        server.register_blueprint(\n            blueprint, url_prefix=config.APPLICATION_ROOT)\n# error handling\n# run\nif __name__ == \"__main__\":\n    server.debug = config.DEBUG\n    server.run(host=config.HOST, port=config.PORT)",
+        "detail": "myte.resources.templates.template-flask-restful-api-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.models.todo",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.models.todo",
+        "peekOfCode": "class Todo(db.Model):\n    \"\"\"\n    todo model class representing ....\n    \"\"\"\n    __tablename__ = \"todos\"\n    id = db.Column(db.Integer, primary_key=True)\n    title = db.Column(db.String(), nullable=False)\n    description = db.Column(db.String(), nullable=True)\n    status = db.Column(db.Boolean(), nullable=False)\n    created_at = db.Column(db.DateTime(), default=datetime.utcnow)",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.models.todo",
+        "documentation": {}
+    },
+    {
+        "label": "TodoItem",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.models.todo_item",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.models.todo_item",
+        "peekOfCode": "class TodoItem(db.Model):\n    \"\"\"\n    todo item model class representing ....\n    \"\"\"\n    __tablename__ = \"todo_items\"\n    id = db.Column(db.Integer, primary_key=True)\n    task = db.Column(db.String(), nullable=False)\n    description = db.Column(db.String(), nullable=True)\n    status = db.Column(db.Boolean(), nullable=False)\n    created_at = db.Column(db.DateTime(), default=datetime.utcnow)",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.models.todo_item",
+        "documentation": {}
+    },
+    {
+        "label": "Index",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.resources.index",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.resources.index",
+        "peekOfCode": "class Index(Resource):\n    \"\"\" This class defines... \"\"\"\n    def get(self):\n        \"\"\" This function defines... \"\"\"\n        return {'hello': 'world'}",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.resources.index",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.resources.todo",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.resources.todo",
+        "peekOfCode": "class Todo(Resource):\n    \"\"\" This class defines... \"\"\"\n    def create(self):\n        \"\"\" This function defines... \"\"\"\n        return\n    def view_all(self):\n        \"\"\" This function defines... \"\"\"\n        return\n    def view_one(self, id):\n        \"\"\" This function defines... \"\"\"",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.resources.todo",
+        "documentation": {}
+    },
+    {
+        "label": "TodoItem",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.resources.todo_item",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.resources.todo_item",
+        "peekOfCode": "class TodoItem(Resource):\n    \"\"\" This class defines... \"\"\"\n    def create(self):\n        \"\"\" This function defines... \"\"\"\n        return\n    def view_all(self):\n        \"\"\" This function defines... \"\"\"\n        return\n    def view_one(self, id):\n        \"\"\" This function defines... \"\"\"",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.resources.todo_item",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_USERNAME",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "peekOfCode": "DATABASE_USERNAME = os.getenv('DATABASE_USERNAME')\nDATABASE_PASSWORD = os.getenv('DATABASE_PASSWORD')\nDATABASE_HOST = os.getenv('DATABASE_HOST')\nDATABASE_PORT = os.getenv('DATABASE_PORT')\nDATABASE_NAME = os.getenv('DATABASE_NAME')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_PASSWORD",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "peekOfCode": "DATABASE_PASSWORD = os.getenv('DATABASE_PASSWORD')\nDATABASE_HOST = os.getenv('DATABASE_HOST')\nDATABASE_PORT = os.getenv('DATABASE_PORT')\nDATABASE_NAME = os.getenv('DATABASE_NAME')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_HOST",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "peekOfCode": "DATABASE_HOST = os.getenv('DATABASE_HOST')\nDATABASE_PORT = os.getenv('DATABASE_PORT')\nDATABASE_NAME = os.getenv('DATABASE_NAME')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_PORT",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "peekOfCode": "DATABASE_PORT = os.getenv('DATABASE_PORT')\nDATABASE_NAME = os.getenv('DATABASE_NAME')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30\n# SQLALCHEMY_DATABASE_URI = f'mysql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_NAME",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "peekOfCode": "DATABASE_NAME = os.getenv('DATABASE_NAME')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30\n# SQLALCHEMY_DATABASE_URI = f'mysql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # SQLite (goto https://www.sqlite.org/download.html, download and install, if you've not)  # noqa",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "peekOfCode": "DEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30\n# SQLALCHEMY_DATABASE_URI = f'mysql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # SQLite (goto https://www.sqlite.org/download.html, download and install, if you've not)  # noqa\n# uncomment line 40 to use SQLite DB and comment line 30",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URI",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30\n# SQLALCHEMY_DATABASE_URI = f'mysql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # SQLite (goto https://www.sqlite.org/download.html, download and install, if you've not)  # noqa\n# uncomment line 40 to use SQLite DB and comment line 30\nSQLALCHEMY_DATABASE_URI = f'sqlite:///{DATABASE_NAME}.db'\nSQLALCHEMY_TRACK_MODIFICATIONS = False\nSECRET_KEY = os.getenv('SECRETKEY')",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URI",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URI = f'sqlite:///{DATABASE_NAME}.db'\nSQLALCHEMY_TRACK_MODIFICATIONS = False\nSECRET_KEY = os.getenv('SECRETKEY')",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_TRACK_MODIFICATIONS",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "peekOfCode": "SQLALCHEMY_TRACK_MODIFICATIONS = False\nSECRET_KEY = os.getenv('SECRETKEY')",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "peekOfCode": "SECRET_KEY = os.getenv('SECRETKEY')",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "server",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "peekOfCode": "server = Flask(__name__)\nserver.debug = config.DEBUG\nserver.config['SQLALCHEMY_DATABASE_URI'] = config.SQLALCHEMY_DATABASE_URI\nserver.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = config.SQLALCHEMY_TRACK_MODIFICATIONS  # noqa\nserver.config['SECRET_KEY'] = config.SECRET_KEY\ndb.init_app(server)\ndb.server = server\nmigrate = Migrate(server, db)\napi = Api(server)\n# routes",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "documentation": {}
+    },
+    {
+        "label": "server.debug",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "peekOfCode": "server.debug = config.DEBUG\nserver.config['SQLALCHEMY_DATABASE_URI'] = config.SQLALCHEMY_DATABASE_URI\nserver.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = config.SQLALCHEMY_TRACK_MODIFICATIONS  # noqa\nserver.config['SECRET_KEY'] = config.SECRET_KEY\ndb.init_app(server)\ndb.server = server\nmigrate = Migrate(server, db)\napi = Api(server)\n# routes\napi.add_resource(Index, '/')",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "documentation": {}
+    },
+    {
+        "label": "server.config['SQLALCHEMY_DATABASE_URI']",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "peekOfCode": "server.config['SQLALCHEMY_DATABASE_URI'] = config.SQLALCHEMY_DATABASE_URI\nserver.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = config.SQLALCHEMY_TRACK_MODIFICATIONS  # noqa\nserver.config['SECRET_KEY'] = config.SECRET_KEY\ndb.init_app(server)\ndb.server = server\nmigrate = Migrate(server, db)\napi = Api(server)\n# routes\napi.add_resource(Index, '/')\napi.add_resource(Todo, '/todo/', '/todo/<int:id>/')",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "documentation": {}
+    },
+    {
+        "label": "server.config['SQLALCHEMY_TRACK_MODIFICATIONS']",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "peekOfCode": "server.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = config.SQLALCHEMY_TRACK_MODIFICATIONS  # noqa\nserver.config['SECRET_KEY'] = config.SECRET_KEY\ndb.init_app(server)\ndb.server = server\nmigrate = Migrate(server, db)\napi = Api(server)\n# routes\napi.add_resource(Index, '/')\napi.add_resource(Todo, '/todo/', '/todo/<int:id>/')\n# entrypoint",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "documentation": {}
+    },
+    {
+        "label": "server.config['SECRET_KEY']",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "peekOfCode": "server.config['SECRET_KEY'] = config.SECRET_KEY\ndb.init_app(server)\ndb.server = server\nmigrate = Migrate(server, db)\napi = Api(server)\n# routes\napi.add_resource(Index, '/')\napi.add_resource(Todo, '/todo/', '/todo/<int:id>/')\n# entrypoint\nif __name__ == \"__main__\":",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "documentation": {}
+    },
+    {
+        "label": "db.server",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "peekOfCode": "db.server = server\nmigrate = Migrate(server, db)\napi = Api(server)\n# routes\napi.add_resource(Index, '/')\napi.add_resource(Todo, '/todo/', '/todo/<int:id>/')\n# entrypoint\nif __name__ == \"__main__\":\n    server.debug = config.DEBUG\n    server.run()",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "documentation": {}
+    },
+    {
+        "label": "migrate",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "peekOfCode": "migrate = Migrate(server, db)\napi = Api(server)\n# routes\napi.add_resource(Index, '/')\napi.add_resource(Todo, '/todo/', '/todo/<int:id>/')\n# entrypoint\nif __name__ == \"__main__\":\n    server.debug = config.DEBUG\n    server.run()",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "description": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "peekOfCode": "api = Api(server)\n# routes\napi.add_resource(Index, '/')\napi.add_resource(Todo, '/todo/', '/todo/<int:id>/')\n# entrypoint\nif __name__ == \"__main__\":\n    server.debug = config.DEBUG\n    server.run()",
+        "detail": "myte.resources.templates.template-flask-restful-api-simple.server",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-robust.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "CreateUserForm",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-robust.src.forms.user",
+        "description": "myte.resources.templates.template-flask-robust.src.forms.user",
+        "peekOfCode": "class CreateUserForm(FlaskForm):\n    \"\"\" This class is use to create new users \"\"\"\n    name = StringField('Name', validators=[DataRequired()])\n    email_address = StringField('Email Address', validators=[Email()])\n    phone_number = IntegerField('Phone Number')\n    street_name = StringField('Street Name', validators=[DataRequired()])\n    city = StringField('City', validators=[DataRequired()])\n    state = StringField('State', validators=[DataRequired()])\n    country = SelectField('Country', validators=[DataRequired()], choices=[])\n    zipcode = StringField('Zipcode', validators=[DataRequired()])",
+        "detail": "myte.resources.templates.template-flask-robust.src.forms.user",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteUserForm",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-robust.src.forms.user",
+        "description": "myte.resources.templates.template-flask-robust.src.forms.user",
+        "peekOfCode": "class DeleteUserForm(FlaskForm):\n    \"\"\" This class is use to create new users \"\"\"\n    delete_user = SubmitField('Yes')",
+        "detail": "myte.resources.templates.template-flask-robust.src.forms.user",
+        "documentation": {}
+    },
+    {
+        "label": "MetaBaseModel",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-robust.src.models.abc",
+        "description": "myte.resources.templates.template-flask-robust.src.models.abc",
+        "peekOfCode": "class MetaBaseModel(db.Model.__class__):\n    \"\"\" Define a metaclass for the BaseModel\n        Implement `__getitem__` for managing aliases \"\"\"\n    def __init__(cls, *args):\n        super().__init__(*args)\n        cls.aliases = WeakValueDictionary()\n    def __getitem__(cls, key):\n        try:\n            alias = cls.aliases[key]\n        except KeyError:",
+        "detail": "myte.resources.templates.template-flask-robust.src.models.abc",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-robust.src.models.abc",
+        "description": "myte.resources.templates.template-flask-robust.src.models.abc",
+        "peekOfCode": "class BaseModel:\n    \"\"\" Generalize __init__, __repr__ and to_json\n        Based on the models columns \"\"\"\n    print_filter = ('password')\n    to_json_filter = ('password')\n    def __repr__(self):\n        \"\"\" Define a base way to print models\n            Columns inside `print_filter` are excluded \"\"\"\n        return \"%s(%s)\" % (\n            self.__class__.__name__,",
+        "detail": "myte.resources.templates.template-flask-robust.src.models.abc",
+        "documentation": {}
+    },
+    {
+        "label": "Sibling",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-robust.src.models.sibling",
+        "description": "myte.resources.templates.template-flask-robust.src.models.sibling",
+        "peekOfCode": "class Sibling(db.Model, BaseModel, metaclass=MetaBaseModel):\n    \"\"\"\n    user model class representing the 'users' table in the database.\n    \"\"\"\n    __tablename__ = \"siblings\"\n    id = db.Column(db.Integer, primary_key=True)\n    full_name = db.Column(db.String(), nullable=False)\n    email_address = db.Column(db.String(), unique=True, nullable=True)\n    phone_number = db.Column(db.String(), nullable=False)\n    created_at = db.Column(db.DateTime(), default=datetime.utcnow)",
+        "detail": "myte.resources.templates.template-flask-robust.src.models.sibling",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-robust.src.models.user",
+        "description": "myte.resources.templates.template-flask-robust.src.models.user",
+        "peekOfCode": "class User(db.Model, BaseModel, metaclass=MetaBaseModel):\n    \"\"\"\n    user model class representing the 'users' table in the database.\n    \"\"\"\n    __tablename__ = \"users\"\n    id = db.Column(db.Integer, primary_key=True)\n    name = db.Column(db.String(), nullable=False)\n    email_address = db.Column(db.String(), unique=True, nullable=True)\n    phone_number = db.Column(db.String(), unique=True, nullable=True)\n    street_name = db.Column(db.String(), nullable=False)",
+        "detail": "myte.resources.templates.template-flask-robust.src.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "IndexResource",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-robust.src.resources.index",
+        "description": "myte.resources.templates.template-flask-robust.src.resources.index",
+        "peekOfCode": "class IndexResource:\n    \"\"\" Index Resources \"\"\"\n    # pylint: disable=E0211\n    def index():\n        \"\"\" Confirms and displays basic info that the server is running \"\"\"\n        pass\n        return render_template('pages/index/index.html'), 200",
+        "detail": "myte.resources.templates.template-flask-robust.src.resources.index",
+        "documentation": {}
+    },
+    {
+        "label": "index_blueprint",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.routes.index",
+        "description": "myte.resources.templates.template-flask-robust.src.routes.index",
+        "peekOfCode": "index_blueprint = Blueprint(\"index\", __name__)\nindex_blueprint.route(\"/\")(IndexResource.index)",
+        "detail": "myte.resources.templates.template-flask-robust.src.routes.index",
+        "documentation": {}
+    },
+    {
+        "label": "BadRequest",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "description": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "peekOfCode": "class BadRequest(Exception):\n    \"\"\" This class represents a 400 bad request \"\"\"\n    def __init__(self) -> None:\n        self.code = 400\n        self.type = 'Bad Request'\n        self.message = 'A bad request error has occurred.  A missing required parameters, or invalid data has caused this error.'  # noqa\nclass Unauthorized(Exception):\n    \"\"\" This class represents a 401 unauthorized request \"\"\"\n    def __init__(self) -> None:\n        self.code = 401",
+        "detail": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "documentation": {}
+    },
+    {
+        "label": "Unauthorized",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "description": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "peekOfCode": "class Unauthorized(Exception):\n    \"\"\" This class represents a 401 unauthorized request \"\"\"\n    def __init__(self) -> None:\n        self.code = 401\n        self.type = 'Unauthorized Request'\n        self.message = 'An unauthorized request was made. The API requires authentication and the user fails to provide valid credentials, this error will occur.'  # noqa\nclass Forbidden(Exception):\n    \"\"\" This class represents a 403 unauthorized request \"\"\"\n    def __init__(self) -> None:\n        self.code = 403",
+        "detail": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "documentation": {}
+    },
+    {
+        "label": "Forbidden",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "description": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "peekOfCode": "class Forbidden(Exception):\n    \"\"\" This class represents a 403 unauthorized request \"\"\"\n    def __init__(self) -> None:\n        self.code = 403\n        self.type = 'Forbidden Request'\n        self.message = 'A forbidden request was made. The request was not authorized to perform the requested operation. This may indicate that the client lacks the necessary permissions or credentials'  # noqa\nclass DataNotFound(Exception):\n    \"\"\" This class represents a 404 not found error \"\"\"\n    def __init__(self) -> None:\n        self.code = 404",
+        "detail": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "documentation": {}
+    },
+    {
+        "label": "DataNotFound",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "description": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "peekOfCode": "class DataNotFound(Exception):\n    \"\"\" This class represents a 404 not found error \"\"\"\n    def __init__(self) -> None:\n        self.code = 404\n        self.type = 'Not Found'\n        self.message = 'Data was not found.'\nclass MethodNotAllowed(Exception):\n    \"\"\" This class represents a 405 method not allowed error \"\"\"\n    def __init__(self) -> None:\n        self.code = 405",
+        "detail": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "documentation": {}
+    },
+    {
+        "label": "MethodNotAllowed",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "description": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "peekOfCode": "class MethodNotAllowed(Exception):\n    \"\"\" This class represents a 405 method not allowed error \"\"\"\n    def __init__(self) -> None:\n        self.code = 405\n        self.type = 'Method not Allowed'\n        self.message = 'The HTTP method used for the request is not supported for the requested resource.'  # noqa\nclass Conflict(Exception):\n    \"\"\" This class represents a 409 conflict error \"\"\"\n    def __init__(self) -> None:\n        self.code = 409",
+        "detail": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "documentation": {}
+    },
+    {
+        "label": "Conflict",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "description": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "peekOfCode": "class Conflict(Exception):\n    \"\"\" This class represents a 409 conflict error \"\"\"\n    def __init__(self) -> None:\n        self.code = 409\n        self.type = 'Conflict Error'\n        self.message = 'Conflict with data.This error occurs if the requested POST operation conflicts with the current state of the server'  # noqa\nclass TooManyRequest(Exception):\n    \"\"\" This class represents a 429 too many requests error \"\"\"\n    def __init__(self) -> None:\n        self.code = 429",
+        "detail": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "documentation": {}
+    },
+    {
+        "label": "TooManyRequest",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "description": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "peekOfCode": "class TooManyRequest(Exception):\n    \"\"\" This class represents a 429 too many requests error \"\"\"\n    def __init__(self) -> None:\n        self.code = 429\n        self.type = 'Too Many Requests'\n        self.message = 'Too many requests where made within a given time frame, and the server is rate-limiting the  to prevent abuse of API'  # noqa\nclass InternalServerError(Exception):\n    \"\"\" This class represents a 500 internal server error \"\"\"\n    def __init__(self) -> None:\n        self.code = 500",
+        "detail": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "documentation": {}
+    },
+    {
+        "label": "InternalServerError",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "description": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "peekOfCode": "class InternalServerError(Exception):\n    \"\"\" This class represents a 500 internal server error \"\"\"\n    def __init__(self) -> None:\n        self.code = 500\n        self.type = 'Internal Server Error'\n        self.message = 'An internal server error has occurred. If this message persist please contact customer support.'  # noqa",
+        "detail": "myte.resources.templates.template-flask-robust.src.utils.errors",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_HOST",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.config",
+        "description": "myte.resources.templates.template-flask-robust.src.config",
+        "peekOfCode": "DATABASE_HOST = os.getenv('DATABASE_HOST')\nDATABASE_PORT = os.getenv('DATABASE_PORT')\nDATABASE_USERNAME = os.getenv('DATABASE_USERNAME')\nDATABASE_PASSWORD = os.getenv('DATABASE_PASSWORD')\nDATABASE_NAME = os.getenv('DATABASE_NAME')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa",
+        "detail": "myte.resources.templates.template-flask-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_PORT",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.config",
+        "description": "myte.resources.templates.template-flask-robust.src.config",
+        "peekOfCode": "DATABASE_PORT = os.getenv('DATABASE_PORT')\nDATABASE_USERNAME = os.getenv('DATABASE_USERNAME')\nDATABASE_PASSWORD = os.getenv('DATABASE_PASSWORD')\nDATABASE_NAME = os.getenv('DATABASE_NAME')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)",
+        "detail": "myte.resources.templates.template-flask-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_USERNAME",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.config",
+        "description": "myte.resources.templates.template-flask-robust.src.config",
+        "peekOfCode": "DATABASE_USERNAME = os.getenv('DATABASE_USERNAME')\nDATABASE_PASSWORD = os.getenv('DATABASE_PASSWORD')\nDATABASE_NAME = os.getenv('DATABASE_NAME')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30",
+        "detail": "myte.resources.templates.template-flask-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_PASSWORD",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.config",
+        "description": "myte.resources.templates.template-flask-robust.src.config",
+        "peekOfCode": "DATABASE_PASSWORD = os.getenv('DATABASE_PASSWORD')\nDATABASE_NAME = os.getenv('DATABASE_NAME')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30\n# SQLALCHEMY_DATABASE_URI = f'mysql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa",
+        "detail": "myte.resources.templates.template-flask-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_NAME",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.config",
+        "description": "myte.resources.templates.template-flask-robust.src.config",
+        "peekOfCode": "DATABASE_NAME = os.getenv('DATABASE_NAME')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30\n# SQLALCHEMY_DATABASE_URI = f'mysql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # SQLite (goto https://www.sqlite.org/download.html, download and install, if you've not)  # noqa",
+        "detail": "myte.resources.templates.template-flask-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.config",
+        "description": "myte.resources.templates.template-flask-robust.src.config",
+        "peekOfCode": "DEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30\n# SQLALCHEMY_DATABASE_URI = f'mysql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # SQLite (goto https://www.sqlite.org/download.html, download and install, if you've not)  # noqa\n# uncomment line 40 to use SQLite DB and comment line 30",
+        "detail": "myte.resources.templates.template-flask-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URI",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.config",
+        "description": "myte.resources.templates.template-flask-robust.src.config",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30\n# SQLALCHEMY_DATABASE_URI = f'mysql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # SQLite (goto https://www.sqlite.org/download.html, download and install, if you've not)  # noqa\n# uncomment line 40 to use SQLite DB and comment line 30\n# SQLALCHEMY_DATABASE_URI = f'sqlite:///{DATABASE_NAME}.db'\nSQLALCHEMY_MODIFICATIONS_TRACKS = False\nappHost = os.getenv('APPHOST')\nappPort = os.getenv('APPPORT')",
+        "detail": "myte.resources.templates.template-flask-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_MODIFICATIONS_TRACKS",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.config",
+        "description": "myte.resources.templates.template-flask-robust.src.config",
+        "peekOfCode": "SQLALCHEMY_MODIFICATIONS_TRACKS = False\nappHost = os.getenv('APPHOST')\nappPort = os.getenv('APPPORT')\nenvironment = os.getenv('ENVIRONMENT')\nsecretKey = os.getenv('SECRETKEY')",
+        "detail": "myte.resources.templates.template-flask-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "appHost",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.config",
+        "description": "myte.resources.templates.template-flask-robust.src.config",
+        "peekOfCode": "appHost = os.getenv('APPHOST')\nappPort = os.getenv('APPPORT')\nenvironment = os.getenv('ENVIRONMENT')\nsecretKey = os.getenv('SECRETKEY')",
+        "detail": "myte.resources.templates.template-flask-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "appPort",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.config",
+        "description": "myte.resources.templates.template-flask-robust.src.config",
+        "peekOfCode": "appPort = os.getenv('APPPORT')\nenvironment = os.getenv('ENVIRONMENT')\nsecretKey = os.getenv('SECRETKEY')",
+        "detail": "myte.resources.templates.template-flask-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "environment",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.config",
+        "description": "myte.resources.templates.template-flask-robust.src.config",
+        "peekOfCode": "environment = os.getenv('ENVIRONMENT')\nsecretKey = os.getenv('SECRETKEY')",
+        "detail": "myte.resources.templates.template-flask-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "secretKey",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.config",
+        "description": "myte.resources.templates.template-flask-robust.src.config",
+        "peekOfCode": "secretKey = os.getenv('SECRETKEY')",
+        "detail": "myte.resources.templates.template-flask-robust.src.config",
+        "documentation": {}
+    },
+    {
+        "label": "PageNotFound",
+        "kind": 2,
+        "importPath": "myte.resources.templates.template-flask-robust.src.server",
+        "description": "myte.resources.templates.template-flask-robust.src.server",
+        "peekOfCode": "def PageNotFound(e):\n    return render_template('errors/404.html'), 404\n@server.errorhandler(500)\ndef ServerError(e):\n    return render_template('errors/500.html'), 500\n# application run\nif __name__ == \"__main__\":\n    server.debug = config.DEBUG\n    server.run()",
+        "detail": "myte.resources.templates.template-flask-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "ServerError",
+        "kind": 2,
+        "importPath": "myte.resources.templates.template-flask-robust.src.server",
+        "description": "myte.resources.templates.template-flask-robust.src.server",
+        "peekOfCode": "def ServerError(e):\n    return render_template('errors/500.html'), 500\n# application run\nif __name__ == \"__main__\":\n    server.debug = config.DEBUG\n    server.run()",
+        "detail": "myte.resources.templates.template-flask-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "server",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.server",
+        "description": "myte.resources.templates.template-flask-robust.src.server",
+        "peekOfCode": "server = Flask(__name__)\nserver.config['SECRET_KEY'] = config.secretKey\nserver.config['SQLALCHEMY_DATABASE_URI'] = config.SQLALCHEMY_DATABASE_URI\nserver.config['SQLALCHEMY_MODIFICATIONS_TRACKS'] = config.SQLALCHEMY_MODIFICATIONS_TRACKS  # noqa\ndb.init_app(server)\ndb.app = (server)\nmigrate = Migrate(server, db)\nWTF_CSRF_SECRET_KEY = config.secretKey\ncsrf.init_app(server)\ncors = CORS(server, resources={",
+        "detail": "myte.resources.templates.template-flask-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "server.config['SECRET_KEY']",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.server",
+        "description": "myte.resources.templates.template-flask-robust.src.server",
+        "peekOfCode": "server.config['SECRET_KEY'] = config.secretKey\nserver.config['SQLALCHEMY_DATABASE_URI'] = config.SQLALCHEMY_DATABASE_URI\nserver.config['SQLALCHEMY_MODIFICATIONS_TRACKS'] = config.SQLALCHEMY_MODIFICATIONS_TRACKS  # noqa\ndb.init_app(server)\ndb.app = (server)\nmigrate = Migrate(server, db)\nWTF_CSRF_SECRET_KEY = config.secretKey\ncsrf.init_app(server)\ncors = CORS(server, resources={\n            r\"/*\": {\"origins\": \"http://127.0.0.1:5000\"}})",
+        "detail": "myte.resources.templates.template-flask-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "server.config['SQLALCHEMY_DATABASE_URI']",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.server",
+        "description": "myte.resources.templates.template-flask-robust.src.server",
+        "peekOfCode": "server.config['SQLALCHEMY_DATABASE_URI'] = config.SQLALCHEMY_DATABASE_URI\nserver.config['SQLALCHEMY_MODIFICATIONS_TRACKS'] = config.SQLALCHEMY_MODIFICATIONS_TRACKS  # noqa\ndb.init_app(server)\ndb.app = (server)\nmigrate = Migrate(server, db)\nWTF_CSRF_SECRET_KEY = config.secretKey\ncsrf.init_app(server)\ncors = CORS(server, resources={\n            r\"/*\": {\"origins\": \"http://127.0.0.1:5000\"}})\nfor blueprint in vars(routes).values():",
+        "detail": "myte.resources.templates.template-flask-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "server.config['SQLALCHEMY_MODIFICATIONS_TRACKS']",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.server",
+        "description": "myte.resources.templates.template-flask-robust.src.server",
+        "peekOfCode": "server.config['SQLALCHEMY_MODIFICATIONS_TRACKS'] = config.SQLALCHEMY_MODIFICATIONS_TRACKS  # noqa\ndb.init_app(server)\ndb.app = (server)\nmigrate = Migrate(server, db)\nWTF_CSRF_SECRET_KEY = config.secretKey\ncsrf.init_app(server)\ncors = CORS(server, resources={\n            r\"/*\": {\"origins\": \"http://127.0.0.1:5000\"}})\nfor blueprint in vars(routes).values():\n    if isinstance(blueprint, Blueprint):",
+        "detail": "myte.resources.templates.template-flask-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "db.app",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.server",
+        "description": "myte.resources.templates.template-flask-robust.src.server",
+        "peekOfCode": "db.app = (server)\nmigrate = Migrate(server, db)\nWTF_CSRF_SECRET_KEY = config.secretKey\ncsrf.init_app(server)\ncors = CORS(server, resources={\n            r\"/*\": {\"origins\": \"http://127.0.0.1:5000\"}})\nfor blueprint in vars(routes).values():\n    if isinstance(blueprint, Blueprint):\n        server.register_blueprint(blueprint)\n# error Handler",
+        "detail": "myte.resources.templates.template-flask-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "migrate",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.server",
+        "description": "myte.resources.templates.template-flask-robust.src.server",
+        "peekOfCode": "migrate = Migrate(server, db)\nWTF_CSRF_SECRET_KEY = config.secretKey\ncsrf.init_app(server)\ncors = CORS(server, resources={\n            r\"/*\": {\"origins\": \"http://127.0.0.1:5000\"}})\nfor blueprint in vars(routes).values():\n    if isinstance(blueprint, Blueprint):\n        server.register_blueprint(blueprint)\n# error Handler\n@server.errorhandler(404)",
+        "detail": "myte.resources.templates.template-flask-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "WTF_CSRF_SECRET_KEY",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.server",
+        "description": "myte.resources.templates.template-flask-robust.src.server",
+        "peekOfCode": "WTF_CSRF_SECRET_KEY = config.secretKey\ncsrf.init_app(server)\ncors = CORS(server, resources={\n            r\"/*\": {\"origins\": \"http://127.0.0.1:5000\"}})\nfor blueprint in vars(routes).values():\n    if isinstance(blueprint, Blueprint):\n        server.register_blueprint(blueprint)\n# error Handler\n@server.errorhandler(404)\ndef PageNotFound(e):",
+        "detail": "myte.resources.templates.template-flask-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "cors",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-robust.src.server",
+        "description": "myte.resources.templates.template-flask-robust.src.server",
+        "peekOfCode": "cors = CORS(server, resources={\n            r\"/*\": {\"origins\": \"http://127.0.0.1:5000\"}})\nfor blueprint in vars(routes).values():\n    if isinstance(blueprint, Blueprint):\n        server.register_blueprint(blueprint)\n# error Handler\n@server.errorhandler(404)\ndef PageNotFound(e):\n    return render_template('errors/404.html'), 404\n@server.errorhandler(500)",
+        "detail": "myte.resources.templates.template-flask-robust.src.server",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "description": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "myte.resources.templates.template-flask-simple.env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "myte.resources.templates.template-flask-simple.app",
+        "description": "myte.resources.templates.template-flask-simple.app",
+        "peekOfCode": "def index():\n    \"\"\" This function defines... \"\"\"\n    # write your logic here\n    return render_template('pages/index.html'), 200\n# entrypoint\nif __name__ == \"__main__\":\n    app.debug = config.DEBUG\n    app.run()",
+        "detail": "myte.resources.templates.template-flask-simple.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.app",
+        "description": "myte.resources.templates.template-flask-simple.app",
+        "peekOfCode": "app = Flask(__name__)\napp.debug = config.DEBUG\napp.config['SQLALCHEMY_DATABASE_URI'] = config.SQLALCHEMY_DATABASE_URI\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = config.SQLALCHEMY_TRACK_MODIFICATIONS  # noqa\napp.config['SECRET_KEY'] = config.SECRET_KEY\ndb.init_app(app)\ndb.app = app\nmigrate = Migrate(app, db)\n# application\n@app.route('/', methods=['GET'])",
+        "detail": "myte.resources.templates.template-flask-simple.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.debug",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.app",
+        "description": "myte.resources.templates.template-flask-simple.app",
+        "peekOfCode": "app.debug = config.DEBUG\napp.config['SQLALCHEMY_DATABASE_URI'] = config.SQLALCHEMY_DATABASE_URI\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = config.SQLALCHEMY_TRACK_MODIFICATIONS  # noqa\napp.config['SECRET_KEY'] = config.SECRET_KEY\ndb.init_app(app)\ndb.app = app\nmigrate = Migrate(app, db)\n# application\n@app.route('/', methods=['GET'])\ndef index():",
+        "detail": "myte.resources.templates.template-flask-simple.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_DATABASE_URI']",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.app",
+        "description": "myte.resources.templates.template-flask-simple.app",
+        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = config.SQLALCHEMY_DATABASE_URI\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = config.SQLALCHEMY_TRACK_MODIFICATIONS  # noqa\napp.config['SECRET_KEY'] = config.SECRET_KEY\ndb.init_app(app)\ndb.app = app\nmigrate = Migrate(app, db)\n# application\n@app.route('/', methods=['GET'])\ndef index():\n    \"\"\" This function defines... \"\"\"",
+        "detail": "myte.resources.templates.template-flask-simple.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS']",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.app",
+        "description": "myte.resources.templates.template-flask-simple.app",
+        "peekOfCode": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = config.SQLALCHEMY_TRACK_MODIFICATIONS  # noqa\napp.config['SECRET_KEY'] = config.SECRET_KEY\ndb.init_app(app)\ndb.app = app\nmigrate = Migrate(app, db)\n# application\n@app.route('/', methods=['GET'])\ndef index():\n    \"\"\" This function defines... \"\"\"\n    # write your logic here",
+        "detail": "myte.resources.templates.template-flask-simple.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SECRET_KEY']",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.app",
+        "description": "myte.resources.templates.template-flask-simple.app",
+        "peekOfCode": "app.config['SECRET_KEY'] = config.SECRET_KEY\ndb.init_app(app)\ndb.app = app\nmigrate = Migrate(app, db)\n# application\n@app.route('/', methods=['GET'])\ndef index():\n    \"\"\" This function defines... \"\"\"\n    # write your logic here\n    return render_template('pages/index.html'), 200",
+        "detail": "myte.resources.templates.template-flask-simple.app",
+        "documentation": {}
+    },
+    {
+        "label": "db.app",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.app",
+        "description": "myte.resources.templates.template-flask-simple.app",
+        "peekOfCode": "db.app = app\nmigrate = Migrate(app, db)\n# application\n@app.route('/', methods=['GET'])\ndef index():\n    \"\"\" This function defines... \"\"\"\n    # write your logic here\n    return render_template('pages/index.html'), 200\n# entrypoint\nif __name__ == \"__main__\":",
+        "detail": "myte.resources.templates.template-flask-simple.app",
+        "documentation": {}
+    },
+    {
+        "label": "migrate",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.app",
+        "description": "myte.resources.templates.template-flask-simple.app",
+        "peekOfCode": "migrate = Migrate(app, db)\n# application\n@app.route('/', methods=['GET'])\ndef index():\n    \"\"\" This function defines... \"\"\"\n    # write your logic here\n    return render_template('pages/index.html'), 200\n# entrypoint\nif __name__ == \"__main__\":\n    app.debug = config.DEBUG",
+        "detail": "myte.resources.templates.template-flask-simple.app",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_USERNAME",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.config",
+        "description": "myte.resources.templates.template-flask-simple.config",
+        "peekOfCode": "DATABASE_USERNAME = os.getenv('DATABASE_USERNAME')\nDATABASE_PASSWORD = os.getenv('DATABASE_PASSWORD')\nDATABASE_HOST = os.getenv('DATABASE_HOST')\nDATABASE_PORT = os.getenv('DATABASE_PORT')\nDATABASE_NAME = os.getenv('DATABASE_NAME')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa",
+        "detail": "myte.resources.templates.template-flask-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_PASSWORD",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.config",
+        "description": "myte.resources.templates.template-flask-simple.config",
+        "peekOfCode": "DATABASE_PASSWORD = os.getenv('DATABASE_PASSWORD')\nDATABASE_HOST = os.getenv('DATABASE_HOST')\nDATABASE_PORT = os.getenv('DATABASE_PORT')\nDATABASE_NAME = os.getenv('DATABASE_NAME')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)",
+        "detail": "myte.resources.templates.template-flask-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_HOST",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.config",
+        "description": "myte.resources.templates.template-flask-simple.config",
+        "peekOfCode": "DATABASE_HOST = os.getenv('DATABASE_HOST')\nDATABASE_PORT = os.getenv('DATABASE_PORT')\nDATABASE_NAME = os.getenv('DATABASE_NAME')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30",
+        "detail": "myte.resources.templates.template-flask-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_PORT",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.config",
+        "description": "myte.resources.templates.template-flask-simple.config",
+        "peekOfCode": "DATABASE_PORT = os.getenv('DATABASE_PORT')\nDATABASE_NAME = os.getenv('DATABASE_NAME')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30\n# SQLALCHEMY_DATABASE_URI = f'mysql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa",
+        "detail": "myte.resources.templates.template-flask-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_NAME",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.config",
+        "description": "myte.resources.templates.template-flask-simple.config",
+        "peekOfCode": "DATABASE_NAME = os.getenv('DATABASE_NAME')\nDEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30\n# SQLALCHEMY_DATABASE_URI = f'mysql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # SQLite (goto https://www.sqlite.org/download.html, download and install, if you've not)  # noqa",
+        "detail": "myte.resources.templates.template-flask-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.config",
+        "description": "myte.resources.templates.template-flask-simple.config",
+        "peekOfCode": "DEBUG = True\n# databases\n# delete any database you don't want to use\n# postgreSQL - default (pip install psycopg2 (windows users) or psycopg2-binary (linux and mac users))  # noqa\nSQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30\n# SQLALCHEMY_DATABASE_URI = f'mysql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # SQLite (goto https://www.sqlite.org/download.html, download and install, if you've not)  # noqa\n# uncomment line 40 to use SQLite DB and comment line 30",
+        "detail": "myte.resources.templates.template-flask-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URI",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.config",
+        "description": "myte.resources.templates.template-flask-simple.config",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # mySQL (pip install mysql-connector-python)\n# uncomment line 35 to use MySQL DB and comment line 30\n# SQLALCHEMY_DATABASE_URI = f'mysql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa\n# # SQLite (goto https://www.sqlite.org/download.html, download and install, if you've not)  # noqa\n# uncomment line 40 to use SQLite DB and comment line 30\n# SQLALCHEMY_DATABASE_URI = f'sqlite:///{DATABASE_NAME}.db'\nSQLALCHEMY_TRACK_MODIFICATIONS = False\nSECRET_KEY = os.getenv('SECRETKEY')",
+        "detail": "myte.resources.templates.template-flask-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_TRACK_MODIFICATIONS",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.config",
+        "description": "myte.resources.templates.template-flask-simple.config",
+        "peekOfCode": "SQLALCHEMY_TRACK_MODIFICATIONS = False\nSECRET_KEY = os.getenv('SECRETKEY')",
+        "detail": "myte.resources.templates.template-flask-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.config",
+        "description": "myte.resources.templates.template-flask-simple.config",
+        "peekOfCode": "SECRET_KEY = os.getenv('SECRETKEY')",
+        "detail": "myte.resources.templates.template-flask-simple.config",
+        "documentation": {}
+    },
+    {
+        "label": "Parent",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-simple.models",
+        "description": "myte.resources.templates.template-flask-simple.models",
+        "peekOfCode": "class Parent(db.Model):\n    ''' Defines the model for parent details'''\n    __tablename__ = 'parents'\n    id = db.Column(db.Integer, primary_key=True)\n    first_name = db.Column(db.String(), nullable=False)\n    middle_name = db.Column(db.String(), nullable=True)\n    last_name = db.Column(db.String(), nullable=False)\n    created_at = db.Column(db.DateTime(), default=datetime.utcnow)\n    updated_at = db.Column(db.DateTime(), nullable=True,\n                           onupdate=datetime.utcnow)",
+        "detail": "myte.resources.templates.template-flask-simple.models",
+        "documentation": {}
+    },
+    {
+        "label": "Child",
+        "kind": 6,
+        "importPath": "myte.resources.templates.template-flask-simple.models",
+        "description": "myte.resources.templates.template-flask-simple.models",
+        "peekOfCode": "class Child(db.Model):\n    ''' Defines the model for child details'''\n    __tablename__ = 'children'\n    id = db.Column(db.Integer, primary_key=True)\n    first_name = db.Column(db.String(), nullable=False)\n    middle_name = db.Column(db.String(), nullable=True)\n    last_name = db.Column(db.String(), nullable=False)\n    created_at = db.Column(db.DateTime(), default=datetime.utcnow)\n    updated_at = db.Column(db.DateTime(), nullable=True,\n                           onupdate=datetime.utcnow)",
+        "detail": "myte.resources.templates.template-flask-simple.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "myte.resources.templates.template-flask-simple.models",
+        "description": "myte.resources.templates.template-flask-simple.models",
+        "peekOfCode": "db = SQLAlchemy()\n# models\nclass Parent(db.Model):\n    ''' Defines the model for parent details'''\n    __tablename__ = 'parents'\n    id = db.Column(db.Integer, primary_key=True)\n    first_name = db.Column(db.String(), nullable=False)\n    middle_name = db.Column(db.String(), nullable=True)\n    last_name = db.Column(db.String(), nullable=False)\n    created_at = db.Column(db.DateTime(), default=datetime.utcnow)",
+        "detail": "myte.resources.templates.template-flask-simple.models",
+        "documentation": {}
+    },
+    {
+        "label": "template_folder",
+        "kind": 5,
+        "importPath": "myte.resources.constants",
+        "description": "myte.resources.constants",
+        "peekOfCode": "template_folder = os.path.join(os.path.dirname(__file__), \"templates\")\n# get current working directory path\ncurrent_dir = os.getcwd()\n# get messages file\nparent_folder = os.path.join(os.path.dirname(__file__))\nfile_path = os.path.join(parent_folder, 'info.json')\nwith open(file_path, \"r\", encoding='utf-8') as f:\n    messages = json.load(f)\n# get OS\nsystem_os = platform.system()",
+        "detail": "myte.resources.constants",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "kind": 5,
+        "importPath": "myte.resources.constants",
+        "description": "myte.resources.constants",
+        "peekOfCode": "current_dir = os.getcwd()\n# get messages file\nparent_folder = os.path.join(os.path.dirname(__file__))\nfile_path = os.path.join(parent_folder, 'info.json')\nwith open(file_path, \"r\", encoding='utf-8') as f:\n    messages = json.load(f)\n# get OS\nsystem_os = platform.system()",
+        "detail": "myte.resources.constants",
+        "documentation": {}
+    },
+    {
+        "label": "parent_folder",
+        "kind": 5,
+        "importPath": "myte.resources.constants",
+        "description": "myte.resources.constants",
+        "peekOfCode": "parent_folder = os.path.join(os.path.dirname(__file__))\nfile_path = os.path.join(parent_folder, 'info.json')\nwith open(file_path, \"r\", encoding='utf-8') as f:\n    messages = json.load(f)\n# get OS\nsystem_os = platform.system()",
+        "detail": "myte.resources.constants",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "myte.resources.constants",
+        "description": "myte.resources.constants",
+        "peekOfCode": "file_path = os.path.join(parent_folder, 'info.json')\nwith open(file_path, \"r\", encoding='utf-8') as f:\n    messages = json.load(f)\n# get OS\nsystem_os = platform.system()",
+        "detail": "myte.resources.constants",
+        "documentation": {}
+    },
+    {
+        "label": "system_os",
+        "kind": 5,
+        "importPath": "myte.resources.constants",
+        "description": "myte.resources.constants",
+        "peekOfCode": "system_os = platform.system()",
+        "detail": "myte.resources.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CreateProject",
+        "kind": 6,
+        "importPath": "myte.resources.create_project",
+        "description": "myte.resources.create_project",
+        "peekOfCode": "class CreateProject:\n    \"\"\" This class defines the boilerplate creation \"\"\"\n    @staticmethod\n    def create_dir(project_name, selected_framework, selected_setup):\n        \"\"\" This function defines the creation of directory \"\"\"\n        console = Console()\n        source_folder = os.path.join(template_folder,\n                                        f\"template-{selected_framework['framework'].lower()}-{selected_setup['setup'].lower()}\")  # noqa\n        destination_folder = os.path.join(current_dir, project_name)\n        shutil.copytree(source_folder, destination_folder)",
+        "detail": "myte.resources.create_project",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteProject",
+        "kind": 6,
+        "importPath": "myte.resources.delete_project",
+        "description": "myte.resources.delete_project",
+        "peekOfCode": "class DeleteProject:\n    \"\"\" This class defines the project deletion/override function \"\"\"\n    @staticmethod\n    def delete_dir(project_name):\n        \"\"\" This function defines the deletion/override of a directory  \"\"\"\n        if os.path.exists(project_name):\n            mprint(\"\\n\")\n            mprint(messages[\"warnings\"][\"dir_exist\"])\n            mprint(\"\\n\")\n            confirmation = typer.confirm(messages[\"warnings\"][\"deletion_warning\"])  # noqa",
+        "detail": "myte.resources.delete_project",
+        "documentation": {}
+    },
+    {
+        "label": "SetupProject",
+        "kind": 6,
+        "importPath": "myte.resources.setup_project",
+        "description": "myte.resources.setup_project",
+        "peekOfCode": "class SetupProject:\n    \"\"\" This class defines the project creation \"\"\"\n    @staticmethod\n    def project_setup():\n        \"\"\" This function defines the setup for the biolerplate creation \"\"\"\n        # get project name\n        project_name = Prompt.ask(\n            \"Project Name\", default=\"myte-project\")\n        mprint(\"\\n\")\n        if project_name == \".\":",
+        "detail": "myte.resources.setup_project",
+        "documentation": {}
+    },
+    {
+        "label": "UKeyboardInterrupt",
+        "kind": 6,
+        "importPath": "myte.utils.errors",
+        "description": "myte.utils.errors",
+        "peekOfCode": "class UKeyboardInterrupt(Exception):\n    \"\"\" This class represents Keyboard Interruption \"\"\"\n    def __init__(self) -> None:\n        self.exception = KeyboardInterrupt\n        self.type = 'Keyboard Interrupt'\n        self.message = 'Programme terminated because a Termination Key was hit by the user'  # noqa",
+        "detail": "myte.utils.errors",
+        "documentation": {}
+    },
+    {
+        "label": "GenerateSecretKey",
+        "kind": 6,
+        "importPath": "myte.utils.secret_key_generator",
+        "description": "myte.utils.secret_key_generator",
+        "peekOfCode": "class GenerateSecretKey:\n    \"\"\" This class is use to generate secret key to be used for security\n    purposes \"\"\"\n    def generate_secret_key():\n        \"\"\" The function generates a 32 character secret key \"\"\"\n        length = 32\n        secret_key = secrets.token_urlsafe(length)\n        return secret_key",
+        "detail": "myte.utils.secret_key_generator",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "myte.main",
+        "description": "myte.main",
+        "peekOfCode": "def main():\n    \"\"\" The defines myte main function \"\"\"\n    console = Console()\n    mprint(\"[yellow]Compatible Note:[/yellow]\")\n    mprint(Text(messages[\"welcome\"], \"green\").wrap(console, 70))\n    mprint(messages[\"salutations\"][\"thank_you\"])\n    mprint(\"\\n\")\n    confirmation = typer.confirm(messages[\"warnings\"][\"start_confirmation\"])\n    mprint(\"\\n\")\n    if not confirmation:",
+        "detail": "myte.main",
+        "documentation": {}
+    },
+    {
+        "label": "myte",
+        "kind": 5,
+        "importPath": "myte.main",
+        "description": "myte.main",
+        "peekOfCode": "myte = typer.Typer()\n# cli start point\n@myte.command()\ndef main():\n    \"\"\" The defines myte main function \"\"\"\n    console = Console()\n    mprint(\"[yellow]Compatible Note:[/yellow]\")\n    mprint(Text(messages[\"welcome\"], \"green\").wrap(console, 70))\n    mprint(messages[\"salutations\"][\"thank_you\"])\n    mprint(\"\\n\")",
+        "detail": "myte.main",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTest",
+        "kind": 6,
+        "importPath": "tests.base_test",
+        "description": "tests.base_test",
+        "peekOfCode": "class BaseTest:\n    def setUp(self) -> None:\n        super().setUp()\n        # create folder to be tested upon and set cwd\n        os.mkdir(\"myte\")\n        os.chdir(\"myte\")\n    def tearDown(self) -> None:\n        super().tearDown()\n        # delete folder and reset cwd\n        os.chdir(\"..\")",
+        "detail": "tests.base_test",
+        "documentation": {}
+    }
+]

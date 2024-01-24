@@ -10,7 +10,10 @@ import platform
 
 # get template folder path
 
-template_folder = os.path.join(os.path.dirname(__file__), "templates")
+# template_folder = os.path.join(os.path.dirname(__file__), "templates")
+template_folder = os.path.join(os.path.abspath(
+    os.path.join(os.path.dirname(__file__), os.pardir)), "templates")
+
 
 # get current working directory path
 
