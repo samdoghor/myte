@@ -6,11 +6,12 @@ This module defines functions to create the boilerplate.
 
 import inquirer
 import typer
-from create_project import CreateProject
-from delete_project import DeleteProject
 from rich import print as mprint
 from rich.prompt import Prompt
-from utils import UKeyboardInterrupt
+
+from ..utils.errors import UKeyboardInterrupt
+from .create_project import CreateProject
+from .delete_project import DeleteProject
 
 
 class SetupProject:
