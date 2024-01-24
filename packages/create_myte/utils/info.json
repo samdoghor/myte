@@ -1,5 +1,5 @@
 {
-    "welcome": "Myte requires at least Python 3.11. However, the tool may still work fine in lower versions. If you encounter any error, do well to report them here https://cutt.ly/1wSR7LW0",
+    "welcome": "Myte requires at least Python 3.8. However, the tool may still work fine in lower versions. If you encounter any error, do well to report them here https://cutt.ly/1wSR7LW0",
     "salutations":{
         "thank_you": "[yellow]Thank you[/yellow]"
     },

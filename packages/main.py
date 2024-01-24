@@ -6,11 +6,12 @@ All configurations are done here.
 """
 
 import typer
-from create_myte.resources.setup_project import SetupProject
-from create_myte.utils.constants import messages
 from rich import print as mprint
 from rich.console import Console
 from rich.text import Text
+
+from .create_myte.resources.setup_project import SetupProject
+from .create_myte.utils.constants import messages
 
 # cli initialization
 
