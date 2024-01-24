@@ -14,17 +14,21 @@ authors = [
 ]
 description = "Myte allows users to choose from popular web frameworks like Flask, FastAPI, and Tornado etc when initializing a new project. After entering a project name, the user selects their preferred framework which then generates the basic directory structure and boilerplate code to get started."
 readme = "README.md"
+license = {file = "LICENSE"}
 requires-python = ">=3.8"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
     "Intended Audience :: Developers",
-    "Topic :: Software Development :: Boilerplate",
     "Environment :: Console",
 ]
 keywords = ["Myte", "Flask", "FastAPI", "Tornado", "Bottle", "Pyramid", "CherryPy", "Boilerplate", "Web framework", "Project bootstrapping", "Framework"]
 
+[project.scripts]
+create-myte = "packages.main:main"
+
 [project.urls]
 Homepage = "https://github.com/samdoghor/myte"
 Issues = "https://github.com/samdoghor/myte/issues"
+Changelog = "https://github.com/samdoghor/myte/blob/main/CHANGELOG.md"
