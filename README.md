@@ -46,7 +46,7 @@ Install `Myte` once without a virtual environment so it would be available to bo
 - Run the code below
 
 ```Bash Copy
-myte start project
+create-myte
 ```
 
 ### How it looks without an activated virtual environment
