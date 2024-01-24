@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "Myte"
-version = "0.0.1"
+version = "1.0.0a1"
 dependencies = [
     "typer",
     "inquirer",
@@ -23,7 +23,7 @@ classifiers = [
     "Topic :: Software Development :: Boilerplate",
     "Environment :: Console",
 ]
-keywords = ["Myte", "Flask", "FastAPI", "Tornado", "Bottle", "Pyramid", "CherryPy", "Boilerplate", "Python web framework", "Project bootstrapping", "Framework"]
+keywords = ["Myte", "Flask", "FastAPI", "Tornado", "Bottle", "Pyramid", "CherryPy", "Boilerplate", "Web framework", "Project bootstrapping", "Framework"]
 
 [project.urls]
 Homepage = "https://github.com/samdoghor/myte"
