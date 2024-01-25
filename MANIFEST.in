@@ -1,0 +1,7 @@
+include packages/create_myte/utils/info.json
+
+recursive-include packages/create_myte/templates *
+
+recursive-exclude packages/create_myte/templates/*/env *
+recursive-exclude packages/create_myte/templates *.env
+recursive-exclude tests *

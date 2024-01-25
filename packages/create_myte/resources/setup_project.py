@@ -9,9 +9,9 @@ import typer
 from rich import print as mprint
 from rich.prompt import Prompt
 
-from ..utils.errors import UKeyboardInterrupt
 from .create_project import CreateProject
 from .delete_project import DeleteProject
+from ..utils.errors import UKeyboardInterrupt
 
 
 class SetupProject:
@@ -26,12 +26,22 @@ class SetupProject:
             "Project Name", default="myte-project")
         mprint("\n")
 
-        if project_name == ".":
-            DeleteProject.delete_files()
-        else:
-            DeleteProject.delete_dir(project_name)
-            mprint(f"[green] ✅ Project name: {project_name} [/green]")
-            mprint("\n")
+        try:
+            if project_name == ".":
+                DeleteProject.delete_files()
+            else:
+                DeleteProject.delete_dir(project_name)
+                mprint(f"[green] ✅ Project name: {project_name} [/green]")
+                mprint("\n")
+        except UKeyboardInterrupt as e:
+            mprint(f"{e.message}")  # noqa
+            raise typer.Abort()
+        except KeyboardInterrupt as e:
+            mprint(f"The Programme was terminated due to {e} Error")  # noqa
+            raise typer.Abort()
+        except TypeError as e:
+            mprint(f"The Programme was terminated due to {e} Error")  # noqa
+            raise typer.Abort()
 
         # get framework choice
         try:
