@@ -11,8 +11,8 @@ from rich import print as mprint
 from rich.console import Console
 from rich.text import Text
 
-from ..utils.secret_key_generator import GenerateSecretKey
 from ..utils.constants import current_dir, messages, system_os, template_folder
+from ..utils.secret_key_generator import GenerateSecretKey
 
 
 class CreateProject:

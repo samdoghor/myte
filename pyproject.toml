@@ -4,10 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "myte"
-version = "1.0.0a1"
+version = "1.0.0b1"
 dependencies = [
     "typer",
     "inquirer",
+    "rich"
 ]
 authors = [
   { name="Samuel Doghor", email="talkto@samdoghor.com" },
