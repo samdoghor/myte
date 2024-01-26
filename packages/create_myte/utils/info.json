@@ -29,10 +29,10 @@
 
         "install_requirements_message": "[cyan] - pip install -r requirements.txt [/cyan]",
 
-        "environment_variable": "[cyan] - Rename example.env to .env [/cyan]",
+        "environment_variable": "[cyan] - Rename example.envi to .env [/cyan]",
 
         "database_configuration": " - Go to config.py, decide the database you want to use, uncomment it and run the pip instructions there ",
-        "secret_key_configuration": "[cyan] - Rename example.envi to .env, Go to .env, replace 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' in SECRETKEY with[/cyan]"
+        "secret_key_configuration": "[cyan] - Go to .env, replace 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' in SECRETKEY with[/cyan]"
 
     },
     "os":{
