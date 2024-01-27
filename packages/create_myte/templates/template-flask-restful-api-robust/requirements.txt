@@ -29,7 +29,7 @@ mistune==3.0.2
 packaging==23.2
 pipenv==2023.6.18
 platformdirs==3.5.1
-psycopg2==2.9.9
+# psycopg2==2.9.9
 pycodestyle==2.10.0
 pyflakes==3.0.1
 python-dotenv==1.0.1
