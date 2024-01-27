@@ -3,13 +3,25 @@
 The module defines ....
 """
 
+from flask import jsonify
 from flask_restful import Resource
 
 
 class Index(Resource):
     """ This class defines... """
 
-    def get(self):
-        """ This function defines... """
+    @staticmethod
+    def status_200():
+        """  """
+        return jsonify({
+            "Message": "Welcome to Myte API",
+            "Status Code": 200,
+        }), 200
 
-        return {'hello': 'world'}
+    @staticmethod
+    def home():
+        """  """
+        return jsonify({
+            "Message": "Welcome to Myte API",
+            "Status Code": 200,
+        }), 200

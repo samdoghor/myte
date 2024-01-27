@@ -52,7 +52,7 @@ create-myte
 ### How it looks without an activated virtual environment
 
 ```Bash Copy
-$ myte start project
+$ create-myte
 
 Compatible Note:
 Myte requires at least Python 3.8. However, the tool may still work
@@ -104,7 +104,7 @@ and run the pip instructions there
 ### How it looks with an activated virtual environment
 
 ```Bash Copy
-$ myte start project
+$ create-myte
 
 Compatible Note:
 Myte requires at least Python 3.8. However, the tool may still work

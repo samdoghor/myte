@@ -6,7 +6,6 @@ The module defines ....
 # imports
 
 from flask import Blueprint
-
 from resources import TodoItem
 
 # configuration

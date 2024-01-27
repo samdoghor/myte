@@ -1,2 +1,3 @@
-from .todo import Todo
-from .todo_item import TodoItem
+from .todo import TodoBlueprint
+from .todo_item import TodoItemBlueprint
+from .index import IndexBlueprint

@@ -12,13 +12,12 @@ endpoints for the API.
 
 # imports
 
+import config
+import routes
 from flasgger import Swagger
 from flask import Blueprint, Flask
 from flask_migrate import Migrate
 from flask_restful import Api
-
-import config
-import routes
 from models import db
 
 # instantiation/configuration

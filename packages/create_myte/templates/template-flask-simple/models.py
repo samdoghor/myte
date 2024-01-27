@@ -18,7 +18,7 @@ db = SQLAlchemy()
 
 
 class Parent(db.Model):
-    ''' Defines the model for parent details'''
+    ''' Defines the model for parent details '''
 
     __tablename__ = 'parents'
 
