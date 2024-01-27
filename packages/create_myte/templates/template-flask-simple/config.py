@@ -30,12 +30,12 @@ DEBUG = True
 SQLALCHEMY_DATABASE_URI = f'postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa
 
 # # mySQL (pip install mysql-connector-python)
-# uncomment line 35 to use MySQL DB and comment line 30
+# uncomment line 35 to use MySQL DB and comment out line 30
 
 # SQLALCHEMY_DATABASE_URI = f'mysql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}:{DATABASE_PORT}/{DATABASE_NAME}'  # noqa
 
 # # SQLite (goto https://www.sqlite.org/download.html, download and install, if you've not)  # noqa
-# uncomment line 40 to use SQLite DB and comment line 30
+# uncomment line 40 to use SQLite DB and comment out line 30
 
 # SQLALCHEMY_DATABASE_URI = f'sqlite:///{DATABASE_NAME}.db'
 
