@@ -14,8 +14,8 @@ authors = [
   { name="Samuel Doghor", email="talkto@samdoghor.com" },
 ]
 description = "Myte allows users to choose from popular web frameworks like Flask, FastAPI, and Tornado etc when initializing a new project. After entering a project name, the user selects their preferred framework which then generates the basic directory structure and boilerplate code to get started."
-readme = "README.md"
-license = {file = "LICENSE"}
+readme = "README.rst"
+license = {file = "LICENSE.rst"}
 requires-python = ">=3.8"
 classifiers = [
     "Programming Language :: Python :: 3",
