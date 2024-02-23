@@ -1,4 +1,4 @@
-## 1.0.0-beta.2 (2024-02-23)
+## v1.1.0 (2024-02-23)
 
 * docs: init of complete documentation by @samdoghor in https://github.com/samdoghor/myte/pull/50
 * docs: update file extensions by @samdoghor in https://github.com/samdoghor/myte/pull/51
@@ -13,7 +13,7 @@
 * chore: update all packages for all templates by @samdoghor in https://github.com/samdoghor/myte/pull/44
 * chore by @samdoghor in https://github.com/samdoghor/myte/pull/49
 
-#£ 1.0.0-beta.1 (2024-01-25)
+# 1.0.0-beta.1 (2024-01-25)
 
 * docs: update readme by @samdoghor in https://github.com/samdoghor/myte/pull/1
 * Refactor code structure for modularity. by @samdoghor in https://github.com/samdoghor/myte/pull/4
