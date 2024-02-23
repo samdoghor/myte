@@ -35,4 +35,4 @@
 * feat: release v0.0.1 by @samdoghor in https://github.com/samdoghor/myte/pull/30
 * chore: little house keeping and files & folder restructure by @samdoghor in https://github.com/samdoghor/myte/pull/33
 * chore: minor changes by @samdoghor in https://github.com/samdoghor/myte/pull/38
-* # fix: import error by @samdoghor in https://github.com/samdoghor/myte/pull/40
+* fix: import error by @samdoghor in https://github.com/samdoghor/myte/pull/40
