@@ -2,7 +2,9 @@
 
 > Python web framework boilerplate made easy
 
-Myte allows users to choose from popular web frameworks like Flask, FastAPI, and Tornado when initializing a new project. After entering a project name, the user selects their preferred framework which then generates the basic directory structure and boilerplate code to get started.
+![GitHub Release](https://img.shields.io/github/v/release/samdoghor/myte) ![GitHub License](https://img.shields.io/github/license/samdoghor/myte)
+
+Myte allows users to choose from popular web frameworks like Flask, FastAPI, and Tornado when initializing a new project. After entering a project name, the user selects their preferred framework which then generates the basic directory structure and boilerplate code to get started. **The project is still at it early phase alot of expected features are be missing**.
 
 - 🚀 Project Bootstrapping
 - 💡 Simplified project setup

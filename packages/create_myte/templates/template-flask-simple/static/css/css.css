@@ -7,6 +7,7 @@
     font-family: "Roboto";
 }
 
+
 /* Image */
 .brand-logo {
     width: 14%;
@@ -39,11 +40,9 @@
 .half-width {
     width: 50%;
 }
-.bg-color {
-    background-color: #e6e6e6;
-}
+
 .bg-color-white {
-    background-color: #161616
+    background-color: #e6e6e6
 ;
 }
 
@@ -60,7 +59,7 @@
     text-align: center;
 }
 .green-sm {
-    color: #97d3c6;
+    color: #142f4e;
 }
 
 .text-white {
@@ -73,21 +72,21 @@
 
 .small-text {
     font-weight: 400;
-    font-size: 17px;
+    font-size: 15px;
     line-height: 24px;
 }
 .small-medium-text {
     font-weight: 400;
-    font-size: 19px;
+    font-size: 17px;
     line-height: 28px;
 }
 .medium-title {
     font-weight: 700;
-    font-size: 26px;
+    font-size: 24px;
 }
 .medium-text {
     font-weight: 500;
-    font-size: 23px;
+    font-size: 21px;
 }
 .xsm-padding-y {
     padding-top: 2%;
@@ -108,22 +107,8 @@
 
 .small-text li {
     list-style: none;
-    list-style-position: inside;
+    list-style-position: outside;
     padding-bottom: 1%;
-}
-
-/* Animation */
-.logo-anim {
-    position: relative;
-    animation-name: logo-anim;
-    animation-duration: 4s;
-}
-
-@keyframes logo-anim {
-    0%   {left:0px; top:0px;}
-    25%  {left:200px; top:0px;}
-    75%  {left:-200px; top:0px;}
-    100% {left:0px; top:0px;}
 }
 
 /* Mobile Devices */

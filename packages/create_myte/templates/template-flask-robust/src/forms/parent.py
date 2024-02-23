@@ -1,5 +1,5 @@
 """
-This module defines all forms needed by the users
+This module defines all forms needed by the parents
 """
 # imports
 
@@ -8,16 +8,16 @@ from flask_wtf.file import FileAllowed, FileField
 from wtforms import IntegerField, SelectField, StringField, SubmitField
 from wtforms.validators import DataRequired, Email
 
-
 # forms
 
 
-class CreateUserForm(FlaskForm):
+class CreateParentForm(FlaskForm):
 
-    """ This class is use to create new users """
+    """ This class is use to create new parents """
 
     name = StringField('Name', validators=[DataRequired()])
     email_address = StringField('Email Address', validators=[Email()])
+    password = StringField('Password', validators=[DataRequired()])
     phone_number = IntegerField('Phone Number')
     street_name = StringField('Street Name', validators=[DataRequired()])
     city = StringField('City', validators=[DataRequired()])
@@ -31,6 +31,6 @@ class CreateUserForm(FlaskForm):
 
 class DeleteUserForm(FlaskForm):
 
-    """ This class is use to create new users """
+    """ This class is use to create new parents """
 
     delete_user = SubmitField('Yes')

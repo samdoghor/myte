@@ -7,6 +7,9 @@ The model ...
 # imports
 
 from datetime import datetime
+from uuid import uuid4
+
+from sqlalchemy import UUID
 
 from . import db
 
@@ -21,7 +24,7 @@ class TodoItem(db.Model):
 
     __tablename__ = "todo_items"
 
-    id = db.Column(db.Integer, primary_key=True)
+    id = db.Column(UUID(as_uuid=True), primary_key=True, default=uuid4)
     task = db.Column(db.String(), nullable=False)
     description = db.Column(db.String(), nullable=True)
     status = db.Column(db.Boolean(), nullable=False)
@@ -33,5 +36,5 @@ class TodoItem(db.Model):
 
     # foreign keys
 
-    todo_id = db.Column(db.Integer, db.ForeignKey(
+    todo_id = db.Column(UUID(as_uuid=True), db.ForeignKey(
         'todos.id'), nullable=False)
