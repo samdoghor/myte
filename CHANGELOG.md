@@ -1,4 +1,4 @@
-## 1.0.0-beta.2 (2024-02-23)
+## v1.1.0 (2024-02-23)
 
 * docs: init of complete documentation by @samdoghor in https://github.com/samdoghor/myte/pull/50
 * docs: update file extensions by @samdoghor in https://github.com/samdoghor/myte/pull/51
