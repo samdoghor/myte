@@ -7,6 +7,9 @@ persons and jobs.
 # imports
 
 from datetime import datetime
+from uuid import uuid4
+
+from sqlalchemy import UUID
 
 from . import db
 from .abc import BaseModel, MetaBaseModel
@@ -14,17 +17,18 @@ from .abc import BaseModel, MetaBaseModel
 # pylint: disable=R0903
 
 
-class Sibling(db.Model, BaseModel, metaclass=MetaBaseModel):
+class Children(db.Model, BaseModel, metaclass=MetaBaseModel):
 
     """
-    user model class representing the 'users' table in the database.
+    user model class representing the 'children' table in the database.
     """
 
-    __tablename__ = "siblings"
+    __tablename__ = "children"
 
-    id = db.Column(db.Integer, primary_key=True)
+    id = db.Column(UUID(as_uuid=True), primary_key=True, default=uuid4)
+
     full_name = db.Column(db.String(), nullable=False)
-    email_address = db.Column(db.String(), unique=True, nullable=True)
+    email_address = db.Column(db.String(), unique=True, nullable=False)
     phone_number = db.Column(db.String(), nullable=False)
 
     created_at = db.Column(db.DateTime(), default=datetime.utcnow)
@@ -34,5 +38,5 @@ class Sibling(db.Model, BaseModel, metaclass=MetaBaseModel):
 
     # foreign keys
 
-    user_id = db.Column(db.Integer, db.ForeignKey(
-        'users.id'), nullable=False)
+    parent_id = db.Column(UUID(as_uuid=True), db.ForeignKey(
+        'parents.id'), nullable=False)

@@ -4,6 +4,6 @@ from flask_sqlalchemy import SQLAlchemy
 # configurations
 db = SQLAlchemy()
 
-# moduel imports
-from .user import User
-from .sibling import Sibling
+# module imports
+from .parent import Parent
+from .child import Children

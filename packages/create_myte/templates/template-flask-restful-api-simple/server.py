@@ -12,7 +12,7 @@ from flask_restful import Api
 
 import config
 from models import db
-from resources import Index, Todo
+from resources import Index, Todo, TodoItem, User
 
 # configurations
 
@@ -31,7 +31,9 @@ api = Api(server)
 # routes
 
 api.add_resource(Index, '/')
-api.add_resource(Todo, '/todo/', '/todo/<int:id>/')
+api.add_resource(Todo, '/todo/', '/todo/<string:id>/')
+api.add_resource(TodoItem, '/todo_item/', '/todo_item/<string:id>/')
+api.add_resource(User, '/user/', '/user/<string:id>/')
 
 # entrypoint
 
