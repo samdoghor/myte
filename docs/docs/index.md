@@ -6,6 +6,8 @@ Python web framework boilerplate made easy (`Start your projects in seconds`)
 
 Myte allows users to choose from popular web frameworks like Flask, FastAPI, and Tornado when initializing a new project. After entering a project name, the user selects their preferred framework which then generates the basic directory structure and boilerplate code to get started.
 
+!!! info
+
     The project is still at it early phase, alot of expected features are missing.
 
 ## Why you should use Myte
@@ -33,7 +35,9 @@ Choose Myte for effortless web development setup. With intuitive project initial
 
 ## Installing
 
-  It is `recommended` to Install `Myte` without a virtual environment so it would be available to bootstrap all your web projects going forward.
+!!! info
+
+    It is `recommended` to Install `Myte` without a virtual environment so it would be available to bootstrap all your web projects going forward.
 
 Install and update using [pip](https://pip.pypa.io/en/stable/getting-started/)
 
@@ -51,11 +55,15 @@ Run the code below to get started
 
 ### How it looks after 4 simple steps
 
-#### "Step 1"
+!!! note "Step 1"
 
-    `$ create-myte` 
+    `$ create-myte`
 
-  Enter the value `y` to proceed or `N` to terminate the program
+    !!! tip 
+    
+        Enter the value `y` to proceed or `N` to terminate the program
+
+    !!! info ""
 
         Compatible Note:
         Myte requires at least Python 3.8. However, the tool may still work
@@ -65,35 +73,47 @@ Run the code below to get started
 
         Do you want to continue? [y/N]: `y`
 
-#### "Step 2"
+!!! note "Step 2"
 
-  Enter your `desired project name` or simply enter `.` (this will erase everything in the current folder) to use current folder.
+    !!! tip 
+
+        Enter your `desired project name` or simply enter `.` (this will erase everything in the current folder) to use current folder.
+
+    !!! info ""
 
         Project Name (myte-project):
 
         ✅ Project name: myte-project
 
-#### "Step 3"
+!!! note "Step 3"
 
-  Use the `up` and `down` `arrow key` to select from the available framework and hit `enter`.
+    !!! tip 
 
+        Use the `up` and `down` `arrow key` to select from the available framework and hit `enter`.
+
+    !!! info ""
         [?] Select a framework: Flask
         > Flask
         Flask-Restful-API
 
         ✅ Flask,  selected
 
-#### "Step 4"
+!!! note "Step 4"
 
-  Use the `up` and `down` `arrow key` to select from the available complexity and hit `enter`.
+    !!! tip 
 
+        Use the `up` and `down` `arrow key` to select from the available complexity and hit `enter`.
+
+    !!! info ""
         [?] Select complexity: Simple
         > Simple
         Robust
 
         ✅ Simple,  selected
 
-        Project setup complete
+        !!! success
+
+            Project setup complete
 
         Usage:
         Run the commands below:
