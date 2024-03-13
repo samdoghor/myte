@@ -1,3 +1,10 @@
+## 0.2.0 (2024-03-13)
+
+* Changed semantic version format
+* Create python-package.yml by @samdoghor in <https://github.com/samdoghor/myte/pull/61>
+* Myte v0.2.0 by @samdoghor in <https://github.com/samdoghor/myte/pull/62>
+* ci/cd actions update by @samdoghor in <https://github.com/samdoghor/myte/pull/63>
+
 ## 0.1.0 (2024-02-23)
 
 * feat: created template for flask-api-robust by @samdoghor in <https://github.com/samdoghor/myte/pull/23>
