@@ -1,0 +1,88 @@
+site_name: Myte
+site_url: https://myte.samdoghor.com/
+repo_url: https://github.com/samdoghor/myte
+repo_name: samdoghor/myte
+
+theme:
+  language: en
+  name: material
+  logo: ../assets/myte_logo.svg
+  favicon: ../assets/myte_logo.svg
+
+  icon:
+    repo: fontawesome/brands/git-alt
+
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+      primary: indigo
+
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+
+plugins:
+  - search:
+      lang: en
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:talkto@samdoghor.com
+    - icon: fontawesome/brands/github
+      link: https://github.com/samdoghor
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/samdoghor
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/samdoghor
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  homepage: https://myte.samdoghor.com
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+copyright: >
+  Copyright &copy; 2023 - 2024 Samuel Doghor - 
+  <a href="#__consent">Change cookie settings</a>

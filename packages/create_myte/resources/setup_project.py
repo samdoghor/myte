@@ -74,7 +74,7 @@ class SetupProject:
             setups = [
                 inquirer.List(
                     "setup",
-                    message="Select a framework",
+                    message="Select complexity",
                     choices=setup_choice,
                     carousel=True,
                 )
