@@ -131,8 +131,8 @@ Run the code below to get started
 
 ## Contribution
 
-See [Contributing Guide](CONTRIBUTING.md).
+See [Contributing Guide](https://github.com/samdoghor/myte/blob/main/CONTRIBUTING.md).
 
 ## License
 
-[MIT](LICENSE).
+[MIT](https://github.com/samdoghor/myte/blob/main/LICENSE).

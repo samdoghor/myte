@@ -8,9 +8,9 @@ typer = {extras = ["all"], version = "*"}
 inquirer = "*"
 pycodestyle = "*"
 flake8 = "*"
-sphinx = "*"
-sphinx-material = "*"
 mkdocs-material = {extras = ["imaging"], version = "*"}
+twine = "*"
+build = "*"
 
 [dev-packages]
 
