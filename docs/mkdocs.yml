@@ -43,7 +43,6 @@ plugins:
       lang: en
 
 extra:
-  generator: false
   social:
     - icon: fontawesome/solid/paper-plane
       link: mailto:talkto@samdoghor.com
