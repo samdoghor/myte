@@ -1,0 +1,49 @@
+{% extends "layouts/main.html" %}
+
+{% block title %} Myte - Simple Flask {% endblock %}
+
+{% block content %}
+
+<section class="full-height bg-color-white">
+   <div class="column-div">
+      <div class="half-width xsm-padding-y bg-color-white full-height md-padding-y">
+         <a href="https://myte.samdoghor.com" target="_blank">
+            <div class="brand-logo-center logo-anim hide-sm">
+               <img src="/static/img/myte_logo.svg" alt="Myte Logo" class="brand-logo" />
+            </div>
+         </a>
+         <div class="md-padding-x">
+            <div>
+               <p class="text-center medium-title green-sm">
+                  <a href="https://myte.samdoghor.com" target="_blank" class="green-sm"> Myte </a> +
+                  <a href="https://flask.palletsprojects.com/" target="_blank" class="green-sm"> Flask </a>
+               </p>
+            </div>
+            <div class="sm-padding-y text-black">
+               <h3 class="medium-text xsm-padding-y"> ⚡ Your application is running smoothly</h3>
+               <p class="xsm-padding-y small-medium-text green-sm">
+                  Please do take a look at your files 📑 and make changes 🛠 as your desire.
+               </p>
+               <p class="xsm-padding-y small-medium-text green-sm">
+                  There are files your should take a critical look at for proper
+                  configuration 🤿 to suit what you want.
+               </p>
+               <ul class="small-text">
+                  <li>✍🏾 server.py & config.py - Entry point & Configurations. </li>
+                  <li>✍🏾 forms/ - Defines forms for project. </li>
+                  <li>✍🏾 resources/ & routes/ - Logics/functions & routes. </li>
+                  <li>✍🏾 models/ - Defines your database tables. </li>
+               </ul>
+            </div>
+            <div class="small-text text-black">
+               <div class="content">
+                  <p class="end"> Thank you for using Myte 👌🏾 </p>
+               </div>
+            </div>
+         </div>
+      </div>
+
+   </div>
+</section>
+
+{% endblock %}
