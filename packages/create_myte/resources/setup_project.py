@@ -45,7 +45,7 @@ class SetupProject:
 
         # get framework choice
         try:
-            frameworks_choice = ["Flask", "Flask-Restful-API"]
+            frameworks_choice = ["Flask"]
             frameworks = [
                 inquirer.List(
                     "framework",
@@ -70,7 +70,7 @@ class SetupProject:
 
         # get setup choice
         try:
-            setup_choice = ["Simple", "Robust"]
+            setup_choice = ["Fullstack", "Restful-API"]
             setups = [
                 inquirer.List(
                     "setup",
